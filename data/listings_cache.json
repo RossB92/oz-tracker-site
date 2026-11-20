@@ -1,0 +1,3238 @@
+{
+  "fetchedAt": "2026-11-20T20:55:24.244608+00:00",
+  "maxPrice": 400000,
+  "count": 66,
+  "inOpportunityZoneCount": 66,
+  "listings": [
+    {
+      "id": "15th-St-N,-Columbus,-MS-39701",
+      "address": "15th St N, Columbus, MS 39701",
+      "city": "Columbus",
+      "state": "MS",
+      "zipCode": "39701",
+      "county": "Lowndes",
+      "latitude": 33.501914,
+      "longitude": -88.416666,
+      "price": 6900,
+      "status": "Active",
+      "listingType": "Standard",
+      "propertyType": "Land",
+      "bedrooms": null,
+      "bathrooms": null,
+      "squareFootage": null,
+      "yearBuilt": null,
+      "listedDate": "2026-01-09T00:00:00.000Z",
+      "daysOnMarket": 316,
+      "lotSize": 7975,
+      "hoaFee": null,
+      "listingAgent": {
+        "name": "Stephanie Jones",
+        "phone": "6628890164",
+        "email": "stephanie.jones@remax.net"
+      },
+      "listingOffice": {
+        "name": "Remax Partners",
+        "phone": "8004321262",
+        "email": "michael.davis@remax.net",
+        "website": "movingthegoldentriangle.com"
+      },
+      "mlsName": "GoldenTriangle",
+      "mlsNumber": "26-34",
+      "history": [
+        {
+          "date": "2024-03-21",
+          "event": "Sale Listing",
+          "price": 7500,
+          "daysOnMarket": 200
+        },
+        {
+          "date": "2024-11-11",
+          "event": "Sale Listing",
+          "price": 7500,
+          "daysOnMarket": 238
+        },
+        {
+          "date": "2026-01-09",
+          "event": "Sale Listing",
+          "price": 6900,
+          "daysOnMarket": 316
+        }
+      ],
+      "inOpportunityZone": true,
+      "opportunityZoneTract": "28087000902",
+      "source": "rentcast",
+      "firstSeen": "2026-11-17",
+      "lastPriceChange": null
+    },
+    {
+      "id": "406-3rd-St-N,-Columbus,-MS-39701",
+      "address": "406 3rd St N, Columbus, MS 39701",
+      "city": "Columbus",
+      "state": "MS",
+      "zipCode": "39701",
+      "county": "Lowndes",
+      "latitude": 33.498336,
+      "longitude": -88.431023,
+      "price": 295000,
+      "status": "Active",
+      "listingType": "Standard",
+      "propertyType": "Single Family",
+      "bedrooms": 4,
+      "bathrooms": 4.5,
+      "squareFootage": 3368,
+      "yearBuilt": 1840,
+      "listedDate": "2026-02-17T00:00:00.000Z",
+      "daysOnMarket": 277,
+      "lotSize": null,
+      "hoaFee": null,
+      "listingAgent": {
+        "name": "Nadia Dale Colom",
+        "phone": "6622956355",
+        "email": "ncolom@innovationswr.com"
+      },
+      "listingOffice": {
+        "name": "JONES EXPANSION GROUP, LLC",
+        "phone": "6625743062",
+        "email": "williejc21@gmail.com"
+      },
+      "mlsName": "GoldenTriangle",
+      "mlsNumber": "26-348",
+      "history": [
+        {
+          "date": "2026-02-17",
+          "event": "Sale Listing",
+          "price": 295000,
+          "daysOnMarket": 277
+        }
+      ],
+      "inOpportunityZone": true,
+      "opportunityZoneTract": "28087000902",
+      "source": "rentcast",
+      "firstSeen": "2026-11-17",
+      "lastPriceChange": null
+    },
+    {
+      "id": "1000-10th-St-N,-Columbus,-MS-39701",
+      "address": "1000 10th St N, Columbus, MS 39701",
+      "city": "Columbus",
+      "state": "MS",
+      "zipCode": "39701",
+      "county": "Lowndes",
+      "latitude": 33.505661,
+      "longitude": -88.423279,
+      "price": 335000,
+      "status": "Active",
+      "listingType": "Standard",
+      "propertyType": "Single Family",
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "squareFootage": 2979,
+      "yearBuilt": 1835,
+      "listedDate": "2026-04-20T00:00:00.000Z",
+      "daysOnMarket": 215,
+      "lotSize": null,
+      "hoaFee": null,
+      "listingAgent": {
+        "name": "Sheri Lipsey",
+        "phone": "6625491354",
+        "email": "sherilipsey@gmail.com",
+        "website": "www.sherilipsey.com"
+      },
+      "listingOffice": {
+        "name": "TRUE REAL ESTATE LLC",
+        "phone": "6622066577",
+        "email": "trueprop26@gmail.com"
+      },
+      "mlsName": "GoldenTriangle",
+      "mlsNumber": "26-882",
+      "history": [
+        {
+          "date": "2026-04-20",
+          "event": "Sale Listing",
+          "price": 335000,
+          "daysOnMarket": 215
+        }
+      ],
+      "inOpportunityZone": true,
+      "opportunityZoneTract": "28087000902",
+      "source": "rentcast",
+      "firstSeen": "2026-11-17",
+      "lastPriceChange": null
+    },
+    {
+      "id": "806-3rd-Ave-N,-Columbus,-MS-39701",
+      "address": "806 3rd Ave N, Columbus, MS 39701",
+      "city": "Columbus",
+      "state": "MS",
+      "zipCode": "39701",
+      "county": "Lowndes",
+      "latitude": 33.497677,
+      "longitude": -88.424604,
+      "price": 269999,
+      "status": "Active",
+      "listingType": "Standard",
+      "propertyType": "Single Family",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "squareFootage": 3000,
+      "yearBuilt": 1854,
+      "listedDate": "2026-05-11T00:00:00.000Z",
+      "daysOnMarket": 194,
+      "lotSize": null,
+      "hoaFee": null,
+      "listingAgent": {
+        "name": "Colin Krieger",
+        "phone": "6623277705",
+        "email": "colinkrieger@remax.net",
+        "website": "http://www.329sold.com"
+      },
+      "listingOffice": {
+        "name": "Remax Partners",
+        "phone": "8004321262",
+        "email": "michael.davis@remax.net",
+        "website": "movingthegoldentriangle.com"
+      },
+      "mlsName": "GoldenTriangle",
+      "mlsNumber": "26-1057",
+      "history": [
+        {
+          "date": "2026-05-11",
+          "event": "Sale Listing",
+          "price": 269999,
+          "daysOnMarket": 194
+        }
+      ],
+      "inOpportunityZone": true,
+      "opportunityZoneTract": "28087000902",
+      "source": "rentcast",
+      "firstSeen": "2026-11-17",
+      "lastPriceChange": null
+    },
+    {
+      "id": "718-S-Gaywood-Ave,-Columbus,-MS-39702",
+      "address": "718 S Gaywood Ave, Columbus, MS 39702",
+      "city": "Columbus",
+      "state": "MS",
+      "zipCode": "39702",
+      "county": "Lowndes",
+      "latitude": 33.488155,
+      "longitude": -88.371478,
+      "price": 160000,
+      "status": "Active",
+      "listingType": "Standard",
+      "propertyType": "Single Family",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "squareFootage": 2034,
+      "yearBuilt": 1980,
+      "listedDate": "2026-06-16T00:00:00.000Z",
+      "daysOnMarket": 158,
+      "lotSize": null,
+      "hoaFee": null,
+      "listingAgent": {
+        "name": "Sheri Lipsey",
+        "phone": "6625491354",
+        "email": "sherilipsey@gmail.com",
+        "website": "www.sherilipsey.com"
+      },
+      "listingOffice": {
+        "name": "TRUE REAL ESTATE LLC",
+        "phone": "6622066577",
+        "email": "trueprop26@gmail.com"
+      },
+      "mlsName": "GoldenTriangle",
+      "mlsNumber": "26-1342",
+      "history": [
+        {
+          "date": "2026-06-16",
+          "event": "Sale Listing",
+          "price": 160000,
+          "daysOnMarket": 158
+        }
+      ],
+      "inOpportunityZone": true,
+      "opportunityZoneTract": "28087000600",
+      "source": "rentcast",
+      "firstSeen": "2026-11-17",
+      "lastPriceChange": null
+    },
+    {
+      "id": "1409-3rd-Ave-N,-Columbus,-MS-39701",
+      "address": "1409 3rd Ave N, Columbus, MS 39701",
+      "city": "Columbus",
+      "state": "MS",
+      "zipCode": "39701",
+      "county": "Lowndes",
+      "latitude": 33.499221,
+      "longitude": -88.417262,
+      "price": 179900,
+      "status": "Active",
+      "listingType": "Standard",
+      "propertyType": "Single Family",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "squareFootage": 1744,
+      "yearBuilt": 1972,
+      "listedDate": "2026-06-29T00:00:00.000Z",
+      "daysOnMarket": 145,
+      "lotSize": null,
+      "hoaFee": null,
+      "listingAgent": {
+        "name": "Phillip Livingston",
+        "phone": "6623619704",
+        "email": "phillip.livingston@clpu.com",
+        "website": "https://www.thelivingstongroupclpu.com/"
+      },
+      "listingOffice": {
+        "name": "CRYE-LEIKE PROPERTIES UNLIMITED",
+        "phone": "6623281150",
+        "email": "gingercorbell65@gmail.com",
+        "website": "http://www.crye-leike.com/franchises/about.php"
+      },
+      "mlsName": "GoldenTriangle",
+      "mlsNumber": "26-1447",
+      "history": [
+        {
+          "date": "2026-06-29",
+          "event": "Sale Listing",
+          "price": 179900,
+          "daysOnMarket": 145
+        }
+      ],
+      "inOpportunityZone": true,
+      "opportunityZoneTract": "28087000902",
+      "source": "rentcast",
+      "firstSeen": "2026-11-17",
+      "lastPriceChange": null
+    },
+    {
+      "id": "205-Mccrary-Dr,-Columbus,-MS-39702",
+      "address": "205 Mccrary Dr, Columbus, MS 39702",
+      "city": "Columbus",
+      "state": "MS",
+      "zipCode": "39702",
+      "county": "Lowndes",
+      "latitude": 33.49226,
+      "longitude": -88.384309,
+      "price": 124900,
+      "status": "Active",
+      "listingType": "Standard",
+      "propertyType": "Single Family",
+      "bedrooms": 3,
+      "bathrooms": 1,
+      "squareFootage": 1582,
+      "yearBuilt": 1975,
+      "listedDate": "2026-05-07T00:00:00.000Z",
+      "daysOnMarket": 198,
+      "lotSize": 15246,
+      "hoaFee": null,
+      "listingAgent": {
+        "name": "Paige Rabun",
+        "phone": "6625823288",
+        "email": "prabun21@gmail.com"
+      },
+      "listingOffice": {
+        "name": "TRUE REAL ESTATE LLC",
+        "phone": "6622066577",
+        "email": "trueprop26@gmail.com"
+      },
+      "mlsName": "GoldenTriangle",
+      "mlsNumber": "26-1030",
+      "history": [
+        {
+          "date": "2025-04-15",
+          "event": "Sale Listing",
+          "price": 124000,
+          "daysOnMarket": 122
+        },
+        {
+          "date": "2026-05-07",
+          "event": "Sale Listing",
+          "price": 124900,
+          "daysOnMarket": 198
+        }
+      ],
+      "inOpportunityZone": true,
+      "opportunityZoneTract": "28087000600",
+      "source": "rentcast",
+      "firstSeen": "2026-11-17",
+      "lastPriceChange": null
+    },
+    {
+      "id": "705-N-19th-Ave,-Columbus,-MS-39701",
+      "address": "705 N 19th Ave, Columbus, MS 39701",
+      "city": "Columbus",
+      "state": "MS",
+      "zipCode": "39701",
+      "county": "Lowndes",
+      "latitude": 33.515379,
+      "longitude": -88.422179,
+      "price": 245000,
+      "status": "Active",
+      "listingType": "Standard",
+      "propertyType": "Single Family",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "squareFootage": 2026,
+      "yearBuilt": 1965,
+      "listedDate": "2026-06-09T00:00:00.000Z",
+      "daysOnMarket": 165,
+      "lotSize": 14810,
+      "hoaFee": null,
+      "listingAgent": {
+        "name": "Colby Shaw",
+        "phone": "6623281150",
+        "email": "colby.shaw@myclpu.com",
+        "website": "http://www.colbyshaw.com/"
+      },
+      "listingOffice": {
+        "name": "CRYE-LEIKE PROPERTIES UNLIMITED",
+        "phone": "6623281150",
+        "email": "gingercorbell65@gmail.com",
+        "website": "http://www.crye-leike.com/franchises/about.php"
+      },
+      "mlsName": "GoldenTriangle",
+      "mlsNumber": "26-1280",
+      "history": [
+        {
+          "date": "2026-06-09",
+          "event": "Sale Listing",
+          "price": 245000,
+          "daysOnMarket": 165
+        }
+      ],
+      "inOpportunityZone": true,
+      "opportunityZoneTract": "28087000902",
+      "source": "rentcast",
+      "firstSeen": "2026-11-17",
+      "lastPriceChange": null
+    },
+    {
+      "id": "1522-3rd-Ave-N,-Columbus,-MS-39701",
+      "address": "1522 3rd Ave N, Columbus, MS 39701",
+      "city": "Columbus",
+      "state": "MS",
+      "zipCode": "39701",
+      "county": "Lowndes",
+      "latitude": 33.498899,
+      "longitude": -88.415473,
+      "price": 50000,
+      "status": "Active",
+      "listingType": "Standard",
+      "propertyType": "Single Family",
+      "bedrooms": 3,
+      "bathrooms": 1,
+      "squareFootage": 1786,
+      "yearBuilt": 1960,
+      "listedDate": "2026-05-20T00:00:00.000Z",
+      "daysOnMarket": 185,
+      "lotSize": null,
+      "hoaFee": null,
+      "listingAgent": {
+        "name": "Leslie Sanders Cooper",
+        "phone": "6624182021",
+        "email": "listwithleslie1220@gmail.com"
+      },
+      "listingOffice": {
+        "name": "McBride & Co. Real Estate",
+        "phone": "6623411000",
+        "email": "audrey@audreymcbride.com",
+        "website": "http://www.mcbrideandco.com"
+      },
+      "mlsName": "GoldenTriangle",
+      "mlsNumber": "26-1122",
+      "history": [
+        {
+          "date": "2026-05-20",
+          "event": "Sale Listing",
+          "price": 50000,
+          "daysOnMarket": 185
+        }
+      ],
+      "inOpportunityZone": true,
+      "opportunityZoneTract": "28087000902",
+      "source": "rentcast",
+      "firstSeen": "2026-11-17",
+      "lastPriceChange": null
+    },
+    {
+      "id": "1121-Park-Cir,-Columbus,-MS-39701",
+      "address": "1121 Park Cir, Columbus, MS 39701",
+      "city": "Columbus",
+      "state": "MS",
+      "zipCode": "39701",
+      "county": "Lowndes",
+      "latitude": 33.50949,
+      "longitude": -88.421248,
+      "price": 290000,
+      "status": "Active",
+      "listingType": "Standard",
+      "propertyType": "Single Family",
+      "bedrooms": 6,
+      "bathrooms": 3.5,
+      "squareFootage": 3005,
+      "yearBuilt": 1937,
+      "listedDate": "2026-06-12T00:00:00.000Z",
+      "daysOnMarket": 162,
+      "lotSize": 39640,
+      "hoaFee": null,
+      "listingAgent": {
+        "name": "Megan Gibson",
+        "phone": "6623616453",
+        "email": "meg@hometownrealtyms.com",
+        "website": "https://www.hometownrealtyms.com"
+      },
+      "listingOffice": {
+        "name": "Hometown Realty (BOF)",
+        "phone": "6625701051",
+        "email": "info@hometownrealtyms.com",
+        "website": "http://www.hometownrealtyms.com"
+      },
+      "mlsName": "GoldenTriangle",
+      "mlsNumber": "26-1319",
+      "history": [
+        {
+          "date": "2026-06-12",
+          "event": "Sale Listing",
+          "price": 290000,
+          "daysOnMarket": 162
+        }
+      ],
+      "inOpportunityZone": true,
+      "opportunityZoneTract": "28087000902",
+      "source": "rentcast",
+      "firstSeen": "2026-11-17",
+      "lastPriceChange": null
+    },
+    {
+      "id": "1001-10th-St-N,-Columbus,-MS-39701",
+      "address": "1001 10th St N, Columbus, MS 39701",
+      "city": "Columbus",
+      "state": "MS",
+      "zipCode": "39701",
+      "county": "Lowndes",
+      "latitude": 33.505324,
+      "longitude": -88.424231,
+      "price": 299000,
+      "status": "Active",
+      "listingType": "Standard",
+      "propertyType": "Single Family",
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "squareFootage": 4500,
+      "yearBuilt": 1900,
+      "listedDate": "2026-08-17T00:00:00.000Z",
+      "daysOnMarket": 96,
+      "lotSize": 30225,
+      "hoaFee": null,
+      "listingAgent": {
+        "name": "Courtney Paige Glassic",
+        "phone": "4245274242",
+        "email": "courtney@buystarkville.com",
+        "website": "buystarkville.com"
+      },
+      "listingOffice": {
+        "name": "SANDERS REAL ESTATE GROUP, LLC",
+        "phone": "8502794332",
+        "email": "williamsandersrealty@gmail.com"
+      },
+      "mlsName": "GoldenTriangle",
+      "mlsNumber": "26-1862",
+      "history": [
+        {
+          "date": "2024-09-03",
+          "event": "Sale Listing",
+          "price": 325000,
+          "daysOnMarket": 121
+        },
+        {
+          "date": "2025-05-13",
+          "event": "Sale Listing",
+          "price": 324999,
+          "daysOnMarket": 431
+        },
+        {
+          "date": "2026-08-17",
+          "event": "Sale Listing",
+          "price": 299000,
+          "daysOnMarket": 96
+        }
+      ],
+      "inOpportunityZone": true,
+      "opportunityZoneTract": "28087000902",
+      "source": "rentcast",
+      "firstSeen": "2026-11-17",
+      "lastPriceChange": null
+    },
+    {
+      "id": "305-14th-St-N,-Columbus,-MS-39701",
+      "address": "305 14th St N, Columbus, MS 39701",
+      "city": "Columbus",
+      "state": "MS",
+      "zipCode": "39701",
+      "county": "Lowndes",
+      "latitude": 33.49926,
+      "longitude": -88.417962,
+      "price": 140000,
+      "status": "Active",
+      "listingType": "Standard",
+      "propertyType": "Single Family",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "squareFootage": 1680,
+      "yearBuilt": 1965,
+      "listedDate": "2026-08-10T00:00:00.000Z",
+      "daysOnMarket": 103,
+      "lotSize": null,
+      "hoaFee": null,
+      "listingAgent": {
+        "name": "Alanna Bledsoe",
+        "phone": "6624885319",
+        "email": "ambledsoe1@yahoo.com"
+      },
+      "listingOffice": {
+        "name": "BLEDSOE REALTY",
+        "phone": "6624885319",
+        "email": "ambledsoe1@yahoo.com"
+      },
+      "mlsName": "GoldenTriangle",
+      "mlsNumber": "26-1803",
+      "history": [
+        {
+          "date": "2026-08-10",
+          "event": "Sale Listing",
+          "price": 140000,
+          "daysOnMarket": 103
+        }
+      ],
+      "inOpportunityZone": true,
+      "opportunityZoneTract": "28087000902",
+      "source": "rentcast",
+      "firstSeen": "2026-11-17",
+      "lastPriceChange": null
+    },
+    {
+      "id": "201-Mccrary-Dr,-Columbus,-MS-39702",
+      "address": "201 Mccrary Dr, Columbus, MS 39702",
+      "city": "Columbus",
+      "state": "MS",
+      "zipCode": "39702",
+      "county": "Lowndes",
+      "latitude": 33.49231,
+      "longitude": -88.384638,
+      "price": 155000,
+      "status": "Active",
+      "listingType": "Standard",
+      "propertyType": "Single Family",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "squareFootage": 1772,
+      "yearBuilt": 1975,
+      "listedDate": "2026-08-04T00:00:00.000Z",
+      "daysOnMarket": 109,
+      "lotSize": null,
+      "hoaFee": null,
+      "listingAgent": {
+        "name": "Zoe Essick",
+        "phone": "6625491959",
+        "email": "zoessick@gmail.com"
+      },
+      "listingOffice": {
+        "name": "LEGACY REAL ESTATE GROUP",
+        "phone": "6628895544",
+        "email": "kaleena@legacyrealestateagent.com"
+      },
+      "mlsName": "GoldenTriangle",
+      "mlsNumber": "26-1746",
+      "history": [
+        {
+          "date": "2026-01-17",
+          "event": "Sale Listing",
+          "price": 159900,
+          "daysOnMarket": 197
+        },
+        {
+          "date": "2026-08-04",
+          "event": "Sale Listing",
+          "price": 155000,
+          "daysOnMarket": 109
+        }
+      ],
+      "inOpportunityZone": true,
+      "opportunityZoneTract": "28087000600",
+      "source": "rentcast",
+      "firstSeen": "2026-11-17",
+      "lastPriceChange": null
+    },
+    {
+      "id": "823-6th-Ave-N,-Columbus,-MS-39701",
+      "address": "823 6th Ave N, Columbus, MS 39701",
+      "city": "Columbus",
+      "state": "MS",
+      "zipCode": "39701",
+      "county": "Lowndes",
+      "latitude": 33.5013,
+      "longitude": -88.424515,
+      "price": 175000,
+      "status": "Active",
+      "listingType": "Standard",
+      "propertyType": "Single Family",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "squareFootage": 1723,
+      "yearBuilt": 1920,
+      "listedDate": "2026-06-12T00:00:00.000Z",
+      "daysOnMarket": 162,
+      "lotSize": null,
+      "hoaFee": null,
+      "listingAgent": {
+        "name": "Colin Krieger",
+        "phone": "6623277705",
+        "email": "colinkrieger@remax.net",
+        "website": "http://www.329sold.com"
+      },
+      "listingOffice": {
+        "name": "Remax Partners",
+        "phone": "8004321262",
+        "email": "michael.davis@remax.net",
+        "website": "movingthegoldentriangle.com"
+      },
+      "mlsName": "GoldenTriangle",
+      "mlsNumber": "26-1315",
+      "history": [
+        {
+          "date": "2026-06-12",
+          "event": "Sale Listing",
+          "price": 175000,
+          "daysOnMarket": 162
+        }
+      ],
+      "inOpportunityZone": true,
+      "opportunityZoneTract": "28087000902",
+      "source": "rentcast",
+      "firstSeen": "2026-11-17",
+      "lastPriceChange": null
+    },
+    {
+      "id": "2600-Pin-Oak-Dr,-Starkville,-MS-39759",
+      "address": "2600 Pin Oak Dr, Starkville, MS 39759",
+      "city": "Starkville",
+      "state": "MS",
+      "zipCode": "39759",
+      "county": "Oktibbeha",
+      "latitude": 33.45421,
+      "longitude": -88.842414,
+      "price": 220000,
+      "status": "Active",
+      "listingType": "Standard",
+      "propertyType": "Single Family",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "squareFootage": 1380,
+      "yearBuilt": null,
+      "listedDate": "2026-04-02T00:00:00.000Z",
+      "daysOnMarket": 233,
+      "lotSize": null,
+      "hoaFee": null,
+      "listingAgent": {
+        "name": "Amanda Edwards",
+        "phone": "6623122599",
+        "email": "amanda@amandaedwards.net"
+      },
+      "listingOffice": {
+        "name": "STARKVILLE PROPERTIES",
+        "phone": "6623240037",
+        "email": "homes@starkvillepropertiesms.com",
+        "website": "http://www.starkvillepropertiesms.com"
+      },
+      "mlsName": "GoldenTriangle",
+      "mlsNumber": "26-724",
+      "history": [
+        {
+          "date": "2026-04-02",
+          "event": "Sale Listing",
+          "price": 220000,
+          "daysOnMarket": 233
+        }
+      ],
+      "inOpportunityZone": true,
+      "opportunityZoneTract": "28105950500",
+      "source": "rentcast",
+      "firstSeen": "2026-11-17",
+      "lastPriceChange": null
+    },
+    {
+      "id": "525-Whitfield-St,-Starkville,-MS-39759",
+      "address": "525 Whitfield St, Starkville, MS 39759",
+      "city": "Starkville",
+      "state": "MS",
+      "zipCode": "39759",
+      "county": "Oktibbeha",
+      "latitude": 33.460013,
+      "longitude": -88.826957,
+      "price": 240000,
+      "status": "Active",
+      "listingType": "Standard",
+      "propertyType": "Single Family",
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "squareFootage": 1484,
+      "yearBuilt": 1917,
+      "listedDate": "2026-06-26T00:00:00.000Z",
+      "daysOnMarket": 148,
+      "lotSize": 5426,
+      "hoaFee": null,
+      "listingAgent": {
+        "name": "Courtney Chesnut",
+        "phone": "6626171730",
+        "email": "courtney@dreamteamms.com"
+      },
+      "listingOffice": {
+        "name": "ERA TOWN & CAMPUS REALTY",
+        "phone": "6626156077",
+        "email": "office@erastarkville.com",
+        "website": "http://www.erastarkville.com/"
+      },
+      "mlsName": "GoldenTriangle",
+      "mlsNumber": "26-1429",
+      "history": [
+        {
+          "date": "2026-06-26",
+          "event": "Sale Listing",
+          "price": 240000,
+          "daysOnMarket": 148
+        }
+      ],
+      "inOpportunityZone": true,
+      "opportunityZoneTract": "28105950500",
+      "source": "rentcast",
+      "firstSeen": "2026-11-17",
+      "lastPriceChange": null
+    },
+    {
+      "id": "129-Curtis-Cir,-Starkville,-MS-39759",
+      "address": "129 Curtis Cir, Starkville, MS 39759",
+      "city": "Starkville",
+      "state": "MS",
+      "zipCode": "39759",
+      "county": "Oktibbeha",
+      "latitude": 33.458902,
+      "longitude": -88.830152,
+      "price": 175000,
+      "status": "Active",
+      "listingType": "Standard",
+      "propertyType": "Single Family",
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "squareFootage": 860,
+      "yearBuilt": 1999,
+      "listedDate": "2026-06-10T00:00:00.000Z",
+      "daysOnMarket": 164,
+      "lotSize": 12632,
+      "hoaFee": null,
+      "listingAgent": {
+        "name": "Megan Gibson",
+        "phone": "6623616453",
+        "email": "meg@hometownrealtyms.com",
+        "website": "https://www.hometownrealtyms.com"
+      },
+      "listingOffice": {
+        "name": "Hometown Realty (BOF)",
+        "phone": "6625701051",
+        "email": "info@hometownrealtyms.com",
+        "website": "http://www.hometownrealtyms.com"
+      },
+      "mlsName": "GoldenTriangle",
+      "mlsNumber": "26-1289",
+      "history": [
+        {
+          "date": "2026-06-10",
+          "event": "Sale Listing",
+          "price": 175000,
+          "daysOnMarket": 164
+        }
+      ],
+      "inOpportunityZone": true,
+      "opportunityZoneTract": "28105950500",
+      "source": "rentcast",
+      "firstSeen": "2026-11-17",
+      "lastPriceChange": null
+    },
+    {
+      "id": "24-Lakes-Blvd,-Starkville,-MS-39759",
+      "address": "24 Lakes Blvd, Starkville, MS 39759",
+      "city": "Starkville",
+      "state": "MS",
+      "zipCode": "39759",
+      "county": "Oktibbeha",
+      "latitude": 33.458272,
+      "longitude": -88.831396,
+      "price": 399500,
+      "status": "Active",
+      "listingType": "Standard",
+      "propertyType": "Single Family",
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "squareFootage": 2160,
+      "yearBuilt": 2004,
+      "listedDate": "2026-07-23T00:00:00.000Z",
+      "daysOnMarket": 121,
+      "lotSize": null,
+      "hoaFee": null,
+      "listingAgent": {
+        "name": "Stephanie Arnett",
+        "phone": "6622687928",
+        "email": "stephanie@mississippimagnolia.com"
+      },
+      "listingOffice": {
+        "name": "EPIQUE REALTY (BOF)",
+        "phone": "6017446454",
+        "email": "msbroker@epiquerealty.com"
+      },
+      "mlsName": "GoldenTriangle",
+      "mlsNumber": "26-1644",
+      "history": [
+        {
+          "date": "2026-07-23",
+          "event": "Sale Listing",
+          "price": 399500,
+          "daysOnMarket": 121
+        }
+      ],
+      "inOpportunityZone": true,
+      "opportunityZoneTract": "28105950500",
+      "source": "rentcast",
+      "firstSeen": "2026-11-17",
+      "lastPriceChange": null
+    },
+    {
+      "id": "101-Mangrove-Palm,-Starkville,-MS-39759",
+      "address": "101 Mangrove Palm, Starkville, MS 39759",
+      "city": "Starkville",
+      "state": "MS",
+      "zipCode": "39759",
+      "county": "Oktibbeha",
+      "latitude": 33.456216,
+      "longitude": -88.842768,
+      "price": 259000,
+      "status": "Active",
+      "listingType": "Standard",
+      "propertyType": "Single Family",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "squareFootage": 1782,
+      "yearBuilt": 1981,
+      "listedDate": "2026-06-30T00:00:00.000Z",
+      "daysOnMarket": 144,
+      "lotSize": null,
+      "hoaFee": null,
+      "listingAgent": {
+        "name": "Laura Mims Williams",
+        "phone": "6622992496",
+        "email": "laura@overstreetproperties.com"
+      },
+      "listingOffice": {
+        "name": "OVERSTREET PROPERTIES, LLC",
+        "phone": "6627697390",
+        "email": "kane@overstreetproperties.com",
+        "website": "www.overstreetproperties.com"
+      },
+      "mlsName": "GoldenTriangle",
+      "mlsNumber": "26-1456",
+      "history": [
+        {
+          "date": "2026-06-30",
+          "event": "Sale Listing",
+          "price": 259000,
+          "daysOnMarket": 144
+        }
+      ],
+      "inOpportunityZone": true,
+      "opportunityZoneTract": "28105950500",
+      "source": "rentcast",
+      "firstSeen": "2026-11-17",
+      "lastPriceChange": null
+    },
+    {
+      "id": "77-Choctaw-Rd,-Starkville,-MS-39759",
+      "address": "77 Choctaw Rd, Starkville, MS 39759",
+      "city": "Starkville",
+      "state": "MS",
+      "zipCode": "39759",
+      "county": "Oktibbeha",
+      "latitude": 33.486039,
+      "longitude": -88.824429,
+      "price": 221000,
+      "status": "Active",
+      "listingType": "Standard",
+      "propertyType": "Single Family",
+      "bedrooms": 4,
+      "bathrooms": 2.5,
+      "squareFootage": 2311,
+      "yearBuilt": 1975,
+      "listedDate": "2026-08-24T00:00:00.000Z",
+      "daysOnMarket": 89,
+      "lotSize": 16988,
+      "hoaFee": null,
+      "listingAgent": {
+        "name": "Melissa Vaughn",
+        "phone": "8008980438",
+        "email": "tenhetrealestate@bellsouth.net"
+      },
+      "listingOffice": {
+        "name": "TENHET REAL ESTATE",
+        "phone": "8008980438",
+        "email": "tenhetrealestate@bellsouth.net",
+        "website": "www.tenhetrealestate.com"
+      },
+      "mlsName": "GoldenTriangle",
+      "mlsNumber": "26-1934",
+      "history": [
+        {
+          "date": "2026-08-24",
+          "event": "Sale Listing",
+          "price": 221000,
+          "daysOnMarket": 89
+        }
+      ],
+      "inOpportunityZone": true,
+      "opportunityZoneTract": "28105950300",
+      "source": "rentcast",
+      "firstSeen": "2026-11-17",
+      "lastPriceChange": null
+    },
+    {
+      "id": "100-Nathan-Hale-Dr,-Starkville,-MS-39759",
+      "address": "100 Nathan Hale Dr, Starkville, MS 39759",
+      "city": "Starkville",
+      "state": "MS",
+      "zipCode": "39759",
+      "county": "Oktibbeha",
+      "latitude": 33.454999,
+      "longitude": -88.834185,
+      "price": 302000,
+      "status": "Active",
+      "listingType": "Standard",
+      "propertyType": "Single Family",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "squareFootage": 1515,
+      "yearBuilt": 1980,
+      "listedDate": "2026-06-26T00:00:00.000Z",
+      "daysOnMarket": 148,
+      "lotSize": null,
+      "hoaFee": null,
+      "listingAgent": {
+        "name": "Reginald Willis",
+        "phone": "6626943330",
+        "email": "reginaldw@msbossrealty.com"
+      },
+      "listingOffice": {
+        "name": "B.O.S.S. Realty",
+        "phone": "6629022677",
+        "email": "ashleym@msbossrealty.com"
+      },
+      "mlsName": "GoldenTriangle",
+      "mlsNumber": "26-1422",
+      "history": [
+        {
+          "date": "2026-06-26",
+          "event": "Sale Listing",
+          "price": 302000,
+          "daysOnMarket": 148
+        }
+      ],
+      "inOpportunityZone": true,
+      "opportunityZoneTract": "28105950500",
+      "source": "rentcast",
+      "firstSeen": "2026-11-17",
+      "lastPriceChange": null
+    },
+    {
+      "id": "510-Spruce-Ln,-Starkville,-MS-39759",
+      "address": "510 Spruce Ln, Starkville, MS 39759",
+      "city": "Starkville",
+      "state": "MS",
+      "zipCode": "39759",
+      "county": "Oktibbeha",
+      "latitude": 33.456018,
+      "longitude": -88.83913,
+      "price": 320000,
+      "status": "Active",
+      "listingType": "Standard",
+      "propertyType": "Single Family",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "squareFootage": 1648,
+      "yearBuilt": 1973,
+      "listedDate": "2026-08-04T00:00:00.000Z",
+      "daysOnMarket": 109,
+      "lotSize": null,
+      "hoaFee": null,
+      "listingAgent": {
+        "name": "Michelle Mcgill",
+        "phone": "6622517417",
+        "email": "michellemcgill@themcgillgroup.ms",
+        "website": "https://www.themcgillgroup.ms"
+      },
+      "listingOffice": {
+        "name": "Real Broker, LLC - MS",
+        "phone": "2284715211",
+        "email": "msbroker@therealbrokerage.com"
+      },
+      "mlsName": "GoldenTriangle",
+      "mlsNumber": "26-1740",
+      "history": [
+        {
+          "date": "2026-08-04",
+          "event": "Sale Listing",
+          "price": 320000,
+          "daysOnMarket": 109
+        }
+      ],
+      "inOpportunityZone": true,
+      "opportunityZoneTract": "28105950500",
+      "source": "rentcast",
+      "firstSeen": "2026-11-17",
+      "lastPriceChange": null
+    },
+    {
+      "id": "2600-Redbud-Dr,-Starkville,-MS-39759",
+      "address": "2600 Redbud Dr, Starkville, MS 39759",
+      "city": "Starkville",
+      "state": "MS",
+      "zipCode": "39759",
+      "county": "Oktibbeha",
+      "latitude": 33.453072,
+      "longitude": -88.842905,
+      "price": 260000,
+      "status": "Active",
+      "listingType": "Standard",
+      "propertyType": "Single Family",
+      "bedrooms": 4,
+      "bathrooms": 2.5,
+      "squareFootage": 1800,
+      "yearBuilt": 1967,
+      "listedDate": "2026-07-02T00:00:00.000Z",
+      "daysOnMarket": 142,
+      "lotSize": null,
+      "hoaFee": null,
+      "listingAgent": {
+        "name": "Alanna Bledsoe",
+        "phone": "6624885319",
+        "email": "ambledsoe1@yahoo.com"
+      },
+      "listingOffice": {
+        "name": "BLEDSOE REALTY",
+        "phone": "6624885319",
+        "email": "ambledsoe1@yahoo.com"
+      },
+      "mlsName": "GoldenTriangle",
+      "mlsNumber": "26-1474",
+      "history": [
+        {
+          "date": "2026-07-02",
+          "event": "Sale Listing",
+          "price": 260000,
+          "daysOnMarket": 142
+        }
+      ],
+      "inOpportunityZone": true,
+      "opportunityZoneTract": "28105950500",
+      "source": "rentcast",
+      "firstSeen": "2026-11-17",
+      "lastPriceChange": null
+    },
+    {
+      "id": "Lakewood-Dr,-Starkville,-MS-39759",
+      "address": "Lakewood Dr, Starkville, MS 39759",
+      "city": "Starkville",
+      "state": "MS",
+      "zipCode": "39759",
+      "county": "Oktibbeha",
+      "latitude": 33.464715,
+      "longitude": -88.782369,
+      "price": 250000,
+      "status": "Active",
+      "listingType": "Standard",
+      "propertyType": "Land",
+      "bedrooms": null,
+      "bathrooms": null,
+      "squareFootage": null,
+      "yearBuilt": null,
+      "listedDate": "2026-08-07T00:00:00.000Z",
+      "daysOnMarket": 106,
+      "lotSize": 165528,
+      "hoaFee": null,
+      "listingAgent": {
+        "name": "Rebecca Kraker",
+        "phone": "6625525384",
+        "email": "rebeccakraker@gmail.com"
+      },
+      "listingOffice": {
+        "name": "McBride & Co. Real Estate",
+        "phone": "6623411000",
+        "email": "audrey@audreymcbride.com",
+        "website": "http://www.mcbrideandco.com"
+      },
+      "mlsName": "GoldenTriangle",
+      "mlsNumber": "26-1779",
+      "history": [
+        {
+          "date": "2026-08-07",
+          "event": "Sale Listing",
+          "price": 250000,
+          "daysOnMarket": 106
+        }
+      ],
+      "inOpportunityZone": true,
+      "opportunityZoneTract": "28105950401",
+      "source": "rentcast",
+      "firstSeen": "2026-11-17",
+      "lastPriceChange": null
+    },
+    {
+      "id": "509-University-Dr,-Apt-406,-Starkville,-MS-39759",
+      "address": "509 University Dr, Apt 406, Starkville, MS 39759",
+      "city": "Starkville",
+      "state": "MS",
+      "zipCode": "39759",
+      "county": "Oktibbeha",
+      "latitude": 33.463593,
+      "longitude": -88.807616,
+      "price": 399000,
+      "status": "Active",
+      "listingType": "Standard",
+      "propertyType": "Condo",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "squareFootage": 753,
+      "yearBuilt": 2020,
+      "listedDate": "2026-08-28T00:00:00.000Z",
+      "daysOnMarket": 85,
+      "lotSize": null,
+      "hoaFee": 300,
+      "listingAgent": {
+        "name": "Reta Strawn Doughty",
+        "phone": "6622662006",
+        "email": "redoughty@comcast.net"
+      },
+      "listingOffice": {
+        "name": "Pinnacle Realty, LLC",
+        "phone": "6628421584",
+        "email": "natgrubbs@comcast.net"
+      },
+      "mlsName": "Tupelo",
+      "mlsNumber": "26-3219",
+      "history": [
+        {
+          "date": "2026-08-28",
+          "event": "Sale Listing",
+          "price": 399000,
+          "daysOnMarket": 85
+        }
+      ],
+      "inOpportunityZone": true,
+      "opportunityZoneTract": "28105950401",
+      "source": "rentcast",
+      "firstSeen": "2026-11-17",
+      "lastPriceChange": null
+    },
+    {
+      "id": "200-Setter-Ln,-Starkville,-MS-39759",
+      "address": "200 Setter Ln, Starkville, MS 39759",
+      "city": "Starkville",
+      "state": "MS",
+      "zipCode": "39759",
+      "county": "Oktibbeha",
+      "latitude": 33.47213,
+      "longitude": -88.801201,
+      "price": 390000,
+      "status": "Active",
+      "listingType": "Standard",
+      "propertyType": "Single Family",
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "squareFootage": 2580,
+      "yearBuilt": 1980,
+      "listedDate": "2026-08-07T00:00:00.000Z",
+      "daysOnMarket": 106,
+      "lotSize": 17424,
+      "hoaFee": null,
+      "listingAgent": {
+        "name": "Dalton Dewberry",
+        "phone": "6623389288",
+        "email": "dewberryd@buysreg.com"
+      },
+      "listingOffice": {
+        "name": "STARKVILLE REAL ESTATE GROUP LLC",
+        "phone": "6628887734",
+        "email": "office@buysreg.com"
+      },
+      "mlsName": "GoldenTriangle",
+      "mlsNumber": "26-1778",
+      "history": [
+        {
+          "date": "2026-08-07",
+          "event": "Sale Listing",
+          "price": 390000,
+          "daysOnMarket": 106
+        }
+      ],
+      "inOpportunityZone": true,
+      "opportunityZoneTract": "28105950401",
+      "source": "rentcast",
+      "firstSeen": "2026-11-17",
+      "lastPriceChange": null
+    },
+    {
+      "id": "309-Vance-St,-Columbus,-MS-39702",
+      "address": "309 Vance St, Columbus, MS 39702",
+      "city": "Columbus",
+      "state": "MS",
+      "zipCode": "39702",
+      "county": "Lowndes",
+      "latitude": 33.490538,
+      "longitude": -88.383937,
+      "price": 154500,
+      "status": "Active",
+      "listingType": "Standard",
+      "propertyType": "Single Family",
+      "bedrooms": 4,
+      "bathrooms": 1.5,
+      "squareFootage": 1350,
+      "yearBuilt": 1975,
+      "listedDate": "2026-09-24T00:00:00.000Z",
+      "daysOnMarket": 58,
+      "lotSize": 12460,
+      "hoaFee": null,
+      "listingAgent": {
+        "name": "Heather Madison",
+        "phone": "6014169959",
+        "email": "heathermadison82@gmail.com"
+      },
+      "listingOffice": {
+        "name": "Hometown Realty (BOF)",
+        "phone": "6625701051",
+        "email": "info@hometownrealtyms.com",
+        "website": "http://www.hometownrealtyms.com"
+      },
+      "mlsName": "GoldenTriangle",
+      "mlsNumber": "26-2195",
+      "history": [
+        {
+          "date": "2025-04-15",
+          "event": "Sale Listing",
+          "price": 90000,
+          "daysOnMarket": 216
+        },
+        {
+          "date": "2026-09-24",
+          "event": "Sale Listing",
+          "price": 154500,
+          "daysOnMarket": 58
+        }
+      ],
+      "inOpportunityZone": true,
+      "opportunityZoneTract": "28087000600",
+      "source": "rentcast",
+      "firstSeen": "2026-11-17",
+      "lastPriceChange": null
+    },
+    {
+      "id": "1102-7th-St-N,-Columbus,-MS-39701",
+      "address": "1102 7th St N, Columbus, MS 39701",
+      "city": "Columbus",
+      "state": "MS",
+      "zipCode": "39701",
+      "county": "Lowndes",
+      "latitude": 33.506449,
+      "longitude": -88.425693,
+      "price": 389900,
+      "status": "Active",
+      "listingType": "Standard",
+      "propertyType": "Single Family",
+      "bedrooms": 4,
+      "bathrooms": 4,
+      "squareFootage": 4282,
+      "yearBuilt": 1950,
+      "listedDate": "2026-09-14T00:00:00.000Z",
+      "daysOnMarket": 68,
+      "lotSize": 76230,
+      "hoaFee": null,
+      "listingAgent": {
+        "name": "Heather Madison",
+        "phone": "6014169959",
+        "email": "heathermadison82@gmail.com"
+      },
+      "listingOffice": {
+        "name": "Hometown Realty (BOF)",
+        "phone": "6625701051",
+        "email": "info@hometownrealtyms.com",
+        "website": "http://www.hometownrealtyms.com"
+      },
+      "mlsName": "GoldenTriangle",
+      "mlsNumber": "26-2105",
+      "history": [
+        {
+          "date": "2026-09-14",
+          "event": "Sale Listing",
+          "price": 389900,
+          "daysOnMarket": 68
+        }
+      ],
+      "inOpportunityZone": true,
+      "opportunityZoneTract": "28087000902",
+      "source": "rentcast",
+      "firstSeen": "2026-11-17",
+      "lastPriceChange": null
+    },
+    {
+      "id": "707-N-19th-Ave,-Columbus,-MS-39701",
+      "address": "707 N 19th Ave, Columbus, MS 39701",
+      "city": "Columbus",
+      "state": "MS",
+      "zipCode": "39701",
+      "county": "Lowndes",
+      "latitude": 33.515344,
+      "longitude": -88.421851,
+      "price": 194500,
+      "status": "Active",
+      "listingType": "Standard",
+      "propertyType": "Single Family",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "squareFootage": 2330,
+      "yearBuilt": 1965,
+      "listedDate": "2026-09-18T00:00:00.000Z",
+      "daysOnMarket": 64,
+      "lotSize": null,
+      "hoaFee": null,
+      "listingAgent": {
+        "name": "Colin Krieger",
+        "phone": "6623277705",
+        "email": "colinkrieger@remax.net",
+        "website": "http://www.329sold.com"
+      },
+      "listingOffice": {
+        "name": "Remax Partners",
+        "phone": "8004321262",
+        "email": "michael.davis@remax.net",
+        "website": "movingthegoldentriangle.com"
+      },
+      "mlsName": "GoldenTriangle",
+      "mlsNumber": "26-2153",
+      "history": [
+        {
+          "date": "2026-09-18",
+          "event": "Sale Listing",
+          "price": 194500,
+          "daysOnMarket": 64
+        }
+      ],
+      "inOpportunityZone": true,
+      "opportunityZoneTract": "28087000902",
+      "source": "rentcast",
+      "firstSeen": "2026-11-17",
+      "lastPriceChange": null
+    },
+    {
+      "id": "1211-Southdown-Pkwy,-Columbus,-MS-39701",
+      "address": "1211 Southdown Pkwy, Columbus, MS 39701",
+      "city": "Columbus",
+      "state": "MS",
+      "zipCode": "39701",
+      "county": "Lowndes",
+      "latitude": 33.512648,
+      "longitude": -88.417706,
+      "price": 194900,
+      "status": "Active",
+      "listingType": "Standard",
+      "propertyType": "Single Family",
+      "bedrooms": 4,
+      "bathrooms": 2.5,
+      "squareFootage": 1680,
+      "yearBuilt": 1970,
+      "listedDate": "2026-10-02T00:00:00.000Z",
+      "daysOnMarket": 50,
+      "lotSize": null,
+      "hoaFee": null,
+      "listingAgent": {
+        "name": "Phillip Livingston",
+        "phone": "6623619704",
+        "email": "phillip.livingston@clpu.com",
+        "website": "https://www.thelivingstongroupclpu.com/"
+      },
+      "listingOffice": {
+        "name": "CRYE-LEIKE PROPERTIES UNLIMITED",
+        "phone": "6623281150",
+        "email": "gingercorbell65@gmail.com",
+        "website": "http://www.crye-leike.com/franchises/about.php"
+      },
+      "mlsName": "GoldenTriangle",
+      "mlsNumber": "26-2255",
+      "history": [
+        {
+          "date": "2026-10-02",
+          "event": "Sale Listing",
+          "price": 194900,
+          "daysOnMarket": 50
+        }
+      ],
+      "inOpportunityZone": true,
+      "opportunityZoneTract": "28087000902",
+      "source": "rentcast",
+      "firstSeen": "2026-11-17",
+      "lastPriceChange": null
+    },
+    {
+      "id": "912-2nd-Ave-N,-Columbus,-MS-39701",
+      "address": "912 2nd Ave N, Columbus, MS 39701",
+      "city": "Columbus",
+      "state": "MS",
+      "zipCode": "39701",
+      "county": "Lowndes",
+      "latitude": 33.49685,
+      "longitude": -88.422681,
+      "price": 175000,
+      "status": "Active",
+      "listingType": "Standard",
+      "propertyType": "Single Family",
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "squareFootage": 1520,
+      "yearBuilt": 1965,
+      "listedDate": "2026-10-16T00:00:00.000Z",
+      "daysOnMarket": 36,
+      "lotSize": null,
+      "hoaFee": null,
+      "listingAgent": {
+        "name": "Michelle Livingston",
+        "phone": "6622519160",
+        "email": "michelle.livingston@myclpu.com",
+        "website": "https://www.thelivingstongroupclpu.com/"
+      },
+      "listingOffice": {
+        "name": "CRYE-LEIKE PROPERTIES UNLIMITED",
+        "phone": "6623281150",
+        "email": "gingercorbell65@gmail.com",
+        "website": "http://www.crye-leike.com/franchises/about.php"
+      },
+      "mlsName": "GoldenTriangle",
+      "mlsNumber": "26-2366",
+      "history": [
+        {
+          "date": "2026-10-16",
+          "event": "Sale Listing",
+          "price": 175000,
+          "daysOnMarket": 36
+        }
+      ],
+      "inOpportunityZone": true,
+      "opportunityZoneTract": "28087000902",
+      "source": "rentcast",
+      "firstSeen": "2026-11-17",
+      "lastPriceChange": null
+    },
+    {
+      "id": "711-11th-St-N,-Columbus,-MS-39701",
+      "address": "711 11th St N, Columbus, MS 39701",
+      "city": "Columbus",
+      "state": "MS",
+      "zipCode": "39701",
+      "county": "Lowndes",
+      "latitude": 33.502681,
+      "longitude": -88.422404,
+      "price": 199999,
+      "status": "Active",
+      "listingType": "Standard",
+      "propertyType": "Single Family",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "squareFootage": 1920,
+      "yearBuilt": 1940,
+      "listedDate": "2026-10-01T00:00:00.000Z",
+      "daysOnMarket": 51,
+      "lotSize": 9148,
+      "hoaFee": null,
+      "listingAgent": {
+        "name": "Paige Rabun",
+        "phone": "6625823288",
+        "email": "prabun21@gmail.com"
+      },
+      "listingOffice": {
+        "name": "TRUE REAL ESTATE LLC",
+        "phone": "6622066577",
+        "email": "trueprop26@gmail.com"
+      },
+      "mlsName": "GoldenTriangle",
+      "mlsNumber": "26-2250",
+      "history": [
+        {
+          "date": "2026-03-25",
+          "event": "Sale Listing",
+          "price": 70000,
+          "daysOnMarket": 30
+        },
+        {
+          "date": "2026-10-01",
+          "event": "Sale Listing",
+          "price": 199999,
+          "daysOnMarket": 51
+        }
+      ],
+      "inOpportunityZone": true,
+      "opportunityZoneTract": "28087000902",
+      "source": "rentcast",
+      "firstSeen": "2026-11-17",
+      "lastPriceChange": null
+    },
+    {
+      "id": "1428-6th-St-N,-Columbus,-MS-39701",
+      "address": "1428 6th St N, Columbus, MS 39701",
+      "city": "Columbus",
+      "state": "MS",
+      "zipCode": "39701",
+      "county": "Lowndes",
+      "latitude": 33.511345,
+      "longitude": -88.426164,
+      "price": 199900,
+      "status": "Active",
+      "listingType": "Standard",
+      "propertyType": "Single Family",
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "squareFootage": 1481,
+      "yearBuilt": 1966,
+      "listedDate": "2026-09-25T00:00:00.000Z",
+      "daysOnMarket": 57,
+      "lotSize": 14810,
+      "hoaFee": null,
+      "listingAgent": null,
+      "listingOffice": {
+        "name": "REGENT REAL ESTATE GROUP LLC",
+        "phone": "6623287600",
+        "email": "terrellthomas.goldentriangle@yahoo.com"
+      },
+      "mlsName": "GoldenTriangle",
+      "mlsNumber": "26-2206",
+      "history": [
+        {
+          "date": "2026-09-25",
+          "event": "Sale Listing",
+          "price": 199900,
+          "daysOnMarket": 57
+        }
+      ],
+      "inOpportunityZone": true,
+      "opportunityZoneTract": "28087000902",
+      "source": "rentcast",
+      "firstSeen": "2026-11-17",
+      "lastPriceChange": null
+    },
+    {
+      "id": "1512-15th-Ave-N,-Columbus,-MS-39701",
+      "address": "1512 15th Ave N, Columbus, MS 39701",
+      "city": "Columbus",
+      "state": "MS",
+      "zipCode": "39701",
+      "county": "Lowndes",
+      "latitude": 33.511223,
+      "longitude": -88.416115,
+      "price": 49000,
+      "status": "Active",
+      "listingType": "Standard",
+      "propertyType": "Single Family",
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "squareFootage": 768,
+      "yearBuilt": 1970,
+      "listedDate": "2026-11-18T00:00:00.000Z",
+      "daysOnMarket": 3,
+      "lotSize": null,
+      "hoaFee": null,
+      "listingAgent": {
+        "name": "David F. Coleman",
+        "phone": "6622515683",
+        "email": "dfcoleman@ccim.net"
+      },
+      "listingOffice": {
+        "name": "COLEMAN REALTY & INVESTMENT",
+        "phone": "6623292323",
+        "email": "dfcoleman80@gmail.com"
+      },
+      "mlsName": "GoldenTriangle",
+      "mlsNumber": "26-2586",
+      "history": [
+        {
+          "date": "2026-11-18",
+          "event": "Sale Listing",
+          "price": 49000,
+          "daysOnMarket": 3
+        }
+      ],
+      "inOpportunityZone": true,
+      "opportunityZoneTract": "28087000902",
+      "source": "rentcast",
+      "firstSeen": "2026-11-19",
+      "lastPriceChange": null
+    },
+    {
+      "id": "1508-17th-Ave-N,-Columbus,-MS-39701",
+      "address": "1508 17th Ave N, Columbus, MS 39701",
+      "city": "Columbus",
+      "state": "MS",
+      "zipCode": "39701",
+      "county": "Lowndes",
+      "latitude": 33.512771,
+      "longitude": -88.41623,
+      "price": 49500,
+      "status": "Active",
+      "listingType": "Standard",
+      "propertyType": "Single Family",
+      "bedrooms": 3,
+      "bathrooms": 1,
+      "squareFootage": 944,
+      "yearBuilt": 1970,
+      "listedDate": "2026-11-18T00:00:00.000Z",
+      "daysOnMarket": 3,
+      "lotSize": null,
+      "hoaFee": null,
+      "listingAgent": {
+        "name": "David F. Coleman",
+        "phone": "6622515683",
+        "email": "dfcoleman@ccim.net"
+      },
+      "listingOffice": {
+        "name": "COLEMAN REALTY & INVESTMENT",
+        "phone": "6623292323",
+        "email": "dfcoleman80@gmail.com"
+      },
+      "mlsName": "GoldenTriangle",
+      "mlsNumber": "26-2585",
+      "history": [
+        {
+          "date": "2026-11-18",
+          "event": "Sale Listing",
+          "price": 49500,
+          "daysOnMarket": 3
+        }
+      ],
+      "inOpportunityZone": true,
+      "opportunityZoneTract": "28087000902",
+      "source": "rentcast",
+      "firstSeen": "2026-11-17",
+      "lastPriceChange": null
+    },
+    {
+      "id": "810-N-21st-Ave,-Columbus,-MS-39701",
+      "address": "810 N 21st Ave, Columbus, MS 39701",
+      "city": "Columbus",
+      "state": "MS",
+      "zipCode": "39701",
+      "county": "Lowndes",
+      "latitude": 33.517031,
+      "longitude": -88.419041,
+      "price": 330000,
+      "status": "Active",
+      "listingType": "Standard",
+      "propertyType": "Single Family",
+      "bedrooms": 4,
+      "bathrooms": 2.5,
+      "squareFootage": 3211,
+      "yearBuilt": 1995,
+      "listedDate": "2026-11-06T00:00:00.000Z",
+      "daysOnMarket": 15,
+      "lotSize": null,
+      "hoaFee": null,
+      "listingAgent": {
+        "name": "Frank Howell",
+        "phone": "6628892739",
+        "email": "frank@frady-realty.com",
+        "website": "http://www.frady-realty.com/"
+      },
+      "listingOffice": {
+        "name": "Coldwell Banker Frady & Associates",
+        "phone": "6623287500",
+        "email": "hello@frady-realty.com",
+        "website": "http://www.frady-realty.com/"
+      },
+      "mlsName": "GoldenTriangle",
+      "mlsNumber": "26-847",
+      "history": [
+        {
+          "date": "2026-04-15",
+          "event": "Sale Listing",
+          "price": 349000,
+          "daysOnMarket": 56
+        },
+        {
+          "date": "2026-11-06",
+          "event": "Sale Listing",
+          "price": 330000,
+          "daysOnMarket": 15
+        }
+      ],
+      "inOpportunityZone": true,
+      "opportunityZoneTract": "28087000902",
+      "source": "rentcast",
+      "firstSeen": "2026-11-17",
+      "lastPriceChange": {
+        "from": 349000,
+        "to": 330000,
+        "date": "2026-11-19"
+      }
+    },
+    {
+      "id": "1512-17th-Ave-N,-Columbus,-MS-39701",
+      "address": "1512 17th Ave N, Columbus, MS 39701",
+      "city": "Columbus",
+      "state": "MS",
+      "zipCode": "39701",
+      "county": "Lowndes",
+      "latitude": 33.512775,
+      "longitude": -88.416039,
+      "price": 49000,
+      "status": "Active",
+      "listingType": "Standard",
+      "propertyType": "Single Family",
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "squareFootage": 744,
+      "yearBuilt": 1970,
+      "listedDate": "2026-11-18T00:00:00.000Z",
+      "daysOnMarket": 3,
+      "lotSize": null,
+      "hoaFee": null,
+      "listingAgent": {
+        "name": "David F. Coleman",
+        "phone": "6622515683",
+        "email": "dfcoleman@ccim.net"
+      },
+      "listingOffice": {
+        "name": "COLEMAN REALTY & INVESTMENT",
+        "phone": "6623292323",
+        "email": "dfcoleman80@gmail.com"
+      },
+      "mlsName": "GoldenTriangle",
+      "mlsNumber": "26-2589",
+      "history": [
+        {
+          "date": "2026-11-18",
+          "event": "Sale Listing",
+          "price": 49000,
+          "daysOnMarket": 3
+        }
+      ],
+      "inOpportunityZone": true,
+      "opportunityZoneTract": "28087000902",
+      "source": "rentcast",
+      "firstSeen": "2026-11-19",
+      "lastPriceChange": null
+    },
+    {
+      "id": "1418-17th-Ave-N,-Columbus,-MS-39701",
+      "address": "1418 17th Ave N, Columbus, MS 39701",
+      "city": "Columbus",
+      "state": "MS",
+      "zipCode": "39701",
+      "county": "Lowndes",
+      "latitude": 33.512763,
+      "longitude": -88.416603,
+      "price": 49500,
+      "status": "Active",
+      "listingType": "Standard",
+      "propertyType": "Single Family",
+      "bedrooms": 3,
+      "bathrooms": 1,
+      "squareFootage": 944,
+      "yearBuilt": 1970,
+      "listedDate": "2026-11-18T00:00:00.000Z",
+      "daysOnMarket": 3,
+      "lotSize": null,
+      "hoaFee": null,
+      "listingAgent": {
+        "name": "David F. Coleman",
+        "phone": "6622515683",
+        "email": "dfcoleman@ccim.net"
+      },
+      "listingOffice": {
+        "name": "COLEMAN REALTY & INVESTMENT",
+        "phone": "6623292323",
+        "email": "dfcoleman80@gmail.com"
+      },
+      "mlsName": "GoldenTriangle",
+      "mlsNumber": "26-2588",
+      "history": [
+        {
+          "date": "2026-11-18",
+          "event": "Sale Listing",
+          "price": 49500,
+          "daysOnMarket": 3
+        }
+      ],
+      "inOpportunityZone": true,
+      "opportunityZoneTract": "28087000902",
+      "source": "rentcast",
+      "firstSeen": "2026-11-19",
+      "lastPriceChange": null
+    },
+    {
+      "id": "1509-17th-Ave-N,-Columbus,-MS-39701",
+      "address": "1509 17th Ave N, Columbus, MS 39701",
+      "city": "Columbus",
+      "state": "MS",
+      "zipCode": "39701",
+      "county": "Lowndes",
+      "latitude": 33.51325,
+      "longitude": -88.416082,
+      "price": 49500,
+      "status": "Active",
+      "listingType": "Standard",
+      "propertyType": "Single Family",
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "squareFootage": 760,
+      "yearBuilt": 1970,
+      "listedDate": "2026-11-18T00:00:00.000Z",
+      "daysOnMarket": 3,
+      "lotSize": null,
+      "hoaFee": null,
+      "listingAgent": {
+        "name": "David F. Coleman",
+        "phone": "6622515683",
+        "email": "dfcoleman@ccim.net"
+      },
+      "listingOffice": {
+        "name": "COLEMAN REALTY & INVESTMENT",
+        "phone": "6623292323",
+        "email": "dfcoleman80@gmail.com"
+      },
+      "mlsName": "GoldenTriangle",
+      "mlsNumber": "26-2587",
+      "history": [
+        {
+          "date": "2026-11-18",
+          "event": "Sale Listing",
+          "price": 49500,
+          "daysOnMarket": 3
+        }
+      ],
+      "inOpportunityZone": true,
+      "opportunityZoneTract": "28087000902",
+      "source": "rentcast",
+      "firstSeen": "2026-11-19",
+      "lastPriceChange": null
+    },
+    {
+      "id": "311-Scales-St,-Starkville,-MS-39759",
+      "address": "311 Scales St, Starkville, MS 39759",
+      "city": "Starkville",
+      "state": "MS",
+      "zipCode": "39759",
+      "county": "Oktibbeha",
+      "latitude": 33.457886,
+      "longitude": -88.823647,
+      "price": 305000,
+      "status": "Active",
+      "listingType": "Standard",
+      "propertyType": "Single Family",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "squareFootage": 1578,
+      "yearBuilt": 1950,
+      "listedDate": "2026-09-03T00:00:00.000Z",
+      "daysOnMarket": 79,
+      "lotSize": null,
+      "hoaFee": null,
+      "listingAgent": {
+        "name": "Tricia Buckner",
+        "phone": "6624182128",
+        "email": "triciabuckner4@gmail.com"
+      },
+      "listingOffice": {
+        "name": "OVERSTREET PROPERTIES, LLC",
+        "phone": "6627697390",
+        "email": "kane@overstreetproperties.com",
+        "website": "www.overstreetproperties.com"
+      },
+      "mlsName": "GoldenTriangle",
+      "mlsNumber": "26-2021",
+      "history": [
+        {
+          "date": "2026-09-03",
+          "event": "Sale Listing",
+          "price": 305000,
+          "daysOnMarket": 79
+        }
+      ],
+      "inOpportunityZone": true,
+      "opportunityZoneTract": "28105950500",
+      "source": "rentcast",
+      "firstSeen": "2026-11-17",
+      "lastPriceChange": null
+    },
+    {
+      "id": "127-Josey-Ave,-Starkville,-MS-39759",
+      "address": "127 Josey Ave, Starkville, MS 39759",
+      "city": "Starkville",
+      "state": "MS",
+      "zipCode": "39759",
+      "county": "Oktibbeha",
+      "latitude": 33.455835,
+      "longitude": -88.825041,
+      "price": 185000,
+      "status": "Active",
+      "listingType": "Standard",
+      "propertyType": "Single Family",
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "squareFootage": 901,
+      "yearBuilt": 1958,
+      "listedDate": "2026-09-08T00:00:00.000Z",
+      "daysOnMarket": 74,
+      "lotSize": null,
+      "hoaFee": null,
+      "listingAgent": {
+        "name": "Michelle Mcgill",
+        "phone": "6622517417",
+        "email": "michellemcgill@themcgillgroup.ms",
+        "website": "https://www.themcgillgroup.ms"
+      },
+      "listingOffice": {
+        "name": "Real Broker, LLC - MS",
+        "phone": "2284715211",
+        "email": "msbroker@therealbrokerage.com"
+      },
+      "mlsName": "GoldenTriangle",
+      "mlsNumber": "26-2046",
+      "history": [
+        {
+          "date": "2026-09-08",
+          "event": "Sale Listing",
+          "price": 185000,
+          "daysOnMarket": 74
+        }
+      ],
+      "inOpportunityZone": true,
+      "opportunityZoneTract": "28105950500",
+      "source": "rentcast",
+      "firstSeen": "2026-11-17",
+      "lastPriceChange": null
+    },
+    {
+      "id": "202-Rosewood-Dr,-Starkville,-MS-39759",
+      "address": "202 Rosewood Dr, Starkville, MS 39759",
+      "city": "Starkville",
+      "state": "MS",
+      "zipCode": "39759",
+      "county": "Oktibbeha",
+      "latitude": 33.458426,
+      "longitude": -88.840726,
+      "price": 262000,
+      "status": "Active",
+      "listingType": "Standard",
+      "propertyType": "Single Family",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "squareFootage": 1812,
+      "yearBuilt": 1970,
+      "listedDate": "2026-09-07T00:00:00.000Z",
+      "daysOnMarket": 75,
+      "lotSize": null,
+      "hoaFee": null,
+      "listingAgent": {
+        "name": "Leigh Ann Evans",
+        "phone": "6624189785",
+        "email": "leighannevans247@gmail.com",
+        "website": "www.sellingstarkville.com"
+      },
+      "listingOffice": {
+        "name": "CAROLE GASTON REALTY",
+        "phone": "6627694053",
+        "email": "cgaston0917@yahoo.com",
+        "website": "www.carolegastonrealty.com"
+      },
+      "mlsName": "GoldenTriangle",
+      "mlsNumber": "26-2037",
+      "history": [
+        {
+          "date": "2026-09-07",
+          "event": "Sale Listing",
+          "price": 262000,
+          "daysOnMarket": 75
+        }
+      ],
+      "inOpportunityZone": true,
+      "opportunityZoneTract": "28105950500",
+      "source": "rentcast",
+      "firstSeen": "2026-11-17",
+      "lastPriceChange": null
+    },
+    {
+      "id": "1900-Patton-Dr,-Starkville,-MS-39759",
+      "address": "1900 Patton Dr, Starkville, MS 39759",
+      "city": "Starkville",
+      "state": "MS",
+      "zipCode": "39759",
+      "county": "Oktibbeha",
+      "latitude": 33.455534,
+      "longitude": -88.832105,
+      "price": 234000,
+      "status": "Active",
+      "listingType": "Standard",
+      "propertyType": "Single Family",
+      "bedrooms": 4,
+      "bathrooms": 2,
+      "squareFootage": 1666,
+      "yearBuilt": 1967,
+      "listedDate": "2026-09-11T00:00:00.000Z",
+      "daysOnMarket": 71,
+      "lotSize": null,
+      "hoaFee": null,
+      "listingAgent": {
+        "name": "Audrey Mcbride",
+        "phone": "6623411000",
+        "email": "audrey@audreymcbride.com",
+        "website": "http://www.mcbrideandco.com"
+      },
+      "listingOffice": {
+        "name": "McBride & Co. Real Estate",
+        "phone": "6623411000",
+        "email": "audrey@audreymcbride.com",
+        "website": "http://www.mcbrideandco.com"
+      },
+      "mlsName": "GoldenTriangle",
+      "mlsNumber": "26-2069",
+      "history": [
+        {
+          "date": "2026-09-11",
+          "event": "Sale Listing",
+          "price": 234000,
+          "daysOnMarket": 71
+        }
+      ],
+      "inOpportunityZone": true,
+      "opportunityZoneTract": "28105950500",
+      "source": "rentcast",
+      "firstSeen": "2026-11-17",
+      "lastPriceChange": null
+    },
+    {
+      "id": "2704-Maple-Dr,-Starkville,-MS-39759",
+      "address": "2704 Maple Dr, Starkville, MS 39759",
+      "city": "Starkville",
+      "state": "MS",
+      "zipCode": "39759",
+      "county": "Oktibbeha",
+      "latitude": 33.451353,
+      "longitude": -88.844829,
+      "price": 255000,
+      "status": "Active",
+      "listingType": "Standard",
+      "propertyType": "Single Family",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "squareFootage": 1926,
+      "yearBuilt": 1970,
+      "listedDate": "2026-08-31T00:00:00.000Z",
+      "daysOnMarket": 82,
+      "lotSize": null,
+      "hoaFee": null,
+      "listingAgent": {
+        "name": "Laura Mims Williams",
+        "phone": "6622992496",
+        "email": "laura@overstreetproperties.com"
+      },
+      "listingOffice": {
+        "name": "OVERSTREET PROPERTIES, LLC",
+        "phone": "6627697390",
+        "email": "kane@overstreetproperties.com",
+        "website": "www.overstreetproperties.com"
+      },
+      "mlsName": "GoldenTriangle",
+      "mlsNumber": "26-1976",
+      "history": [
+        {
+          "date": "2026-08-31",
+          "event": "Sale Listing",
+          "price": 255000,
+          "daysOnMarket": 82
+        }
+      ],
+      "inOpportunityZone": true,
+      "opportunityZoneTract": "28105950500",
+      "source": "rentcast",
+      "firstSeen": "2026-11-17",
+      "lastPriceChange": null
+    },
+    {
+      "id": "105-Freeman-St,-Starkville,-MS-39759",
+      "address": "105 Freeman St, Starkville, MS 39759",
+      "city": "Starkville",
+      "state": "MS",
+      "zipCode": "39759",
+      "county": "Oktibbeha",
+      "latitude": 33.472421,
+      "longitude": -88.81686,
+      "price": 275000,
+      "status": "Active",
+      "listingType": "Standard",
+      "propertyType": "Single Family",
+      "bedrooms": 4,
+      "bathrooms": 2,
+      "squareFootage": 1435,
+      "yearBuilt": 1959,
+      "listedDate": "2026-09-15T00:00:00.000Z",
+      "daysOnMarket": 67,
+      "lotSize": 16000,
+      "hoaFee": null,
+      "listingAgent": {
+        "name": "Jake Randolph",
+        "phone": "6623154976",
+        "email": "jake@jakerandolph.com"
+      },
+      "listingOffice": {
+        "name": "McBride & Co. Real Estate",
+        "phone": "6623411000",
+        "email": "audrey@audreymcbride.com",
+        "website": "http://www.mcbrideandco.com"
+      },
+      "mlsName": "GoldenTriangle",
+      "mlsNumber": "26-2110",
+      "history": [
+        {
+          "date": "2026-09-15",
+          "event": "Sale Listing",
+          "price": 275000,
+          "daysOnMarket": 67
+        }
+      ],
+      "inOpportunityZone": true,
+      "opportunityZoneTract": "28105950300",
+      "source": "rentcast",
+      "firstSeen": "2026-11-17",
+      "lastPriceChange": null
+    },
+    {
+      "id": "105-Bridle-Path,-Starkville,-MS-39759",
+      "address": "105 Bridle Path, Starkville, MS 39759",
+      "city": "Starkville",
+      "state": "MS",
+      "zipCode": "39759",
+      "county": "Oktibbeha",
+      "latitude": 33.483331,
+      "longitude": -88.81612,
+      "price": 359900,
+      "status": "Active",
+      "listingType": "Standard",
+      "propertyType": "Single Family",
+      "bedrooms": 4,
+      "bathrooms": 2,
+      "squareFootage": 2481,
+      "yearBuilt": 1960,
+      "listedDate": "2026-08-28T00:00:00.000Z",
+      "daysOnMarket": 85,
+      "lotSize": null,
+      "hoaFee": null,
+      "listingAgent": {
+        "name": "Brandon Shaw",
+        "phone": "2057123273",
+        "email": "brandon.shaw@myclpu.com",
+        "website": "http://brandonshawsells.com/"
+      },
+      "listingOffice": {
+        "name": "CRYE-LEIKE PROPERTIES UNLIMITED",
+        "phone": "6623281150",
+        "email": "gingercorbell65@gmail.com",
+        "website": "http://www.crye-leike.com/franchises/about.php"
+      },
+      "mlsName": "GoldenTriangle",
+      "mlsNumber": "26-1963",
+      "history": [
+        {
+          "date": "2026-08-28",
+          "event": "Sale Listing",
+          "price": 359900,
+          "daysOnMarket": 85
+        }
+      ],
+      "inOpportunityZone": true,
+      "opportunityZoneTract": "28105950300",
+      "source": "rentcast",
+      "firstSeen": "2026-11-17",
+      "lastPriceChange": null
+    },
+    {
+      "id": "709-Ponderosa-Dr,-Starkville,-MS-39759",
+      "address": "709 Ponderosa Dr, Starkville, MS 39759",
+      "city": "Starkville",
+      "state": "MS",
+      "zipCode": "39759",
+      "county": "Oktibbeha",
+      "latitude": 33.452261,
+      "longitude": -88.841453,
+      "price": 295000,
+      "status": "Active",
+      "listingType": "Standard",
+      "propertyType": "Single Family",
+      "bedrooms": 4,
+      "bathrooms": 2,
+      "squareFootage": 1785,
+      "yearBuilt": 1965,
+      "listedDate": "2026-09-15T00:00:00.000Z",
+      "daysOnMarket": 67,
+      "lotSize": 15750,
+      "hoaFee": null,
+      "listingAgent": {
+        "name": "Jake Randolph",
+        "phone": "6623154976",
+        "email": "jake@jakerandolph.com"
+      },
+      "listingOffice": {
+        "name": "McBride & Co. Real Estate",
+        "phone": "6623411000",
+        "email": "audrey@audreymcbride.com",
+        "website": "http://www.mcbrideandco.com"
+      },
+      "mlsName": "GoldenTriangle",
+      "mlsNumber": "26-2111",
+      "history": [
+        {
+          "date": "2026-09-15",
+          "event": "Sale Listing",
+          "price": 295000,
+          "daysOnMarket": 67
+        }
+      ],
+      "inOpportunityZone": true,
+      "opportunityZoneTract": "28105950500",
+      "source": "rentcast",
+      "firstSeen": "2026-11-17",
+      "lastPriceChange": null
+    },
+    {
+      "id": "403-Russell-St,-Unit-306,-Starkville,-MS-39759",
+      "address": "403 Russell St, Unit 306, Starkville, MS 39759",
+      "city": "Starkville",
+      "state": "MS",
+      "zipCode": "39759",
+      "county": "Oktibbeha",
+      "latitude": 33.459064,
+      "longitude": -88.805992,
+      "price": 399900,
+      "status": "Active",
+      "listingType": "New Construction",
+      "propertyType": "Condo",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "squareFootage": 700,
+      "yearBuilt": 2025,
+      "listedDate": "2026-09-16T00:00:00.000Z",
+      "daysOnMarket": 66,
+      "lotSize": null,
+      "hoaFee": null,
+      "listingAgent": {
+        "name": "Kay Regimbal",
+        "phone": "6628160094",
+        "email": "kay@mississippimagnolia.com"
+      },
+      "listingOffice": {
+        "name": "MISSISSIPPI MAGNOLIA LLC",
+        "phone": "6625461769",
+        "email": "stephanie@starkvillelife.com"
+      },
+      "mlsName": "GoldenTriangle",
+      "mlsNumber": "26-2120",
+      "history": [
+        {
+          "date": "2026-09-16",
+          "event": "Sale Listing",
+          "price": 399900,
+          "daysOnMarket": 66
+        }
+      ],
+      "inOpportunityZone": true,
+      "opportunityZoneTract": "28105950401",
+      "source": "rentcast",
+      "firstSeen": "2026-11-17",
+      "lastPriceChange": null
+    },
+    {
+      "id": "519-Highway,-82,-Starkville,-MS-39759",
+      "address": "519 Highway, 82, Starkville, MS 39759",
+      "city": "Starkville",
+      "state": "MS",
+      "zipCode": "39759",
+      "county": "Oktibbeha",
+      "latitude": 33.463778,
+      "longitude": -88.82987,
+      "price": 299000,
+      "status": "Active",
+      "listingType": "Standard",
+      "propertyType": "Single Family",
+      "bedrooms": 4,
+      "bathrooms": 2,
+      "squareFootage": 2236,
+      "yearBuilt": 1951,
+      "listedDate": "2026-10-20T00:00:00.000Z",
+      "daysOnMarket": 32,
+      "lotSize": null,
+      "hoaFee": null,
+      "listingAgent": {
+        "name": "Brady Richardson",
+        "phone": "6624188791",
+        "email": "brady@tomsmithland.com"
+      },
+      "listingOffice": {
+        "name": "TOM SMITH LAND AND HOMES",
+        "phone": "6622686333",
+        "email": "info@tomsmithland.com",
+        "website": "http://www.tomsmithlandandhomes.com/"
+      },
+      "mlsName": "GoldenTriangle",
+      "mlsNumber": "26-2397",
+      "history": [
+        {
+          "date": "2026-10-20",
+          "event": "Sale Listing",
+          "price": 299000,
+          "daysOnMarket": 32
+        }
+      ],
+      "inOpportunityZone": true,
+      "opportunityZoneTract": "28105950500",
+      "source": "rentcast",
+      "firstSeen": "2026-11-17",
+      "lastPriceChange": null
+    },
+    {
+      "id": "403-Russell-St,-Unit-303,-Starkville,-MS-39759",
+      "address": "403 Russell St, Unit 303, Starkville, MS 39759",
+      "city": "Starkville",
+      "state": "MS",
+      "zipCode": "39759",
+      "county": "Oktibbeha",
+      "latitude": 33.459064,
+      "longitude": -88.805992,
+      "price": 399900,
+      "status": "Active",
+      "listingType": "New Construction",
+      "propertyType": "Condo",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "squareFootage": 700,
+      "yearBuilt": 2025,
+      "listedDate": "2026-09-15T00:00:00.000Z",
+      "daysOnMarket": 67,
+      "lotSize": null,
+      "hoaFee": null,
+      "listingAgent": {
+        "name": "Kay Regimbal",
+        "phone": "6628160094",
+        "email": "kay@mississippimagnolia.com"
+      },
+      "listingOffice": {
+        "name": "MISSISSIPPI MAGNOLIA LLC",
+        "phone": "6625461769",
+        "email": "stephanie@starkvillelife.com"
+      },
+      "mlsName": "GoldenTriangle",
+      "mlsNumber": "26-2118",
+      "history": [
+        {
+          "date": "2026-09-15",
+          "event": "Sale Listing",
+          "price": 399900,
+          "daysOnMarket": 67
+        }
+      ],
+      "inOpportunityZone": true,
+      "opportunityZoneTract": "28105950401",
+      "source": "rentcast",
+      "firstSeen": "2026-11-17",
+      "lastPriceChange": null
+    },
+    {
+      "id": "403-Russell-St,-Unit-307,-Starkville,-MS-39759",
+      "address": "403 Russell St, Unit 307, Starkville, MS 39759",
+      "city": "Starkville",
+      "state": "MS",
+      "zipCode": "39759",
+      "county": "Oktibbeha",
+      "latitude": 33.459064,
+      "longitude": -88.805992,
+      "price": 399900,
+      "status": "Active",
+      "listingType": "New Construction",
+      "propertyType": "Condo",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "squareFootage": 700,
+      "yearBuilt": 2025,
+      "listedDate": "2026-09-16T00:00:00.000Z",
+      "daysOnMarket": 66,
+      "lotSize": null,
+      "hoaFee": null,
+      "listingAgent": {
+        "name": "Kay Regimbal",
+        "phone": "6628160094",
+        "email": "kay@mississippimagnolia.com"
+      },
+      "listingOffice": {
+        "name": "MISSISSIPPI MAGNOLIA LLC",
+        "phone": "6625461769",
+        "email": "stephanie@starkvillelife.com"
+      },
+      "mlsName": "GoldenTriangle",
+      "mlsNumber": "26-2123",
+      "history": [
+        {
+          "date": "2026-09-16",
+          "event": "Sale Listing",
+          "price": 399900,
+          "daysOnMarket": 66
+        }
+      ],
+      "inOpportunityZone": true,
+      "opportunityZoneTract": "28105950401",
+      "source": "rentcast",
+      "firstSeen": "2026-11-17",
+      "lastPriceChange": null
+    },
+    {
+      "id": "11-Middleton-Ct,-Starkville,-MS-39759",
+      "address": "11 Middleton Ct, Starkville, MS 39759",
+      "city": "Starkville",
+      "state": "MS",
+      "zipCode": "39759",
+      "county": "Oktibbeha",
+      "latitude": 33.458032,
+      "longitude": -88.830322,
+      "price": 239000,
+      "status": "Active",
+      "listingType": "Standard",
+      "propertyType": "Townhouse",
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "squareFootage": 1672,
+      "yearBuilt": 1993,
+      "listedDate": "2026-09-18T00:00:00.000Z",
+      "daysOnMarket": 64,
+      "lotSize": null,
+      "hoaFee": null,
+      "listingAgent": {
+        "name": "Misty Patterson",
+        "phone": "6627699898",
+        "email": "shearblissma@yahoo.com"
+      },
+      "listingOffice": {
+        "name": "TENHET REAL ESTATE",
+        "phone": "8008980438",
+        "email": "tenhetrealestate@bellsouth.net",
+        "website": "www.tenhetrealestate.com"
+      },
+      "mlsName": "GoldenTriangle",
+      "mlsNumber": "26-2154",
+      "history": [
+        {
+          "date": "2026-09-18",
+          "event": "Sale Listing",
+          "price": 239000,
+          "daysOnMarket": 64
+        }
+      ],
+      "inOpportunityZone": true,
+      "opportunityZoneTract": "28105950500",
+      "source": "rentcast",
+      "firstSeen": "2026-11-17",
+      "lastPriceChange": null
+    },
+    {
+      "id": "6-Pontotoc-St,-Starkville,-MS-39759",
+      "address": "6 Pontotoc St, Starkville, MS 39759",
+      "city": "Starkville",
+      "state": "MS",
+      "zipCode": "39759",
+      "county": "Oktibbeha",
+      "latitude": 33.484883,
+      "longitude": -88.824454,
+      "price": 349799,
+      "status": "Active",
+      "listingType": "New Construction",
+      "propertyType": "Single Family",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "squareFootage": 1508,
+      "yearBuilt": 2026,
+      "listedDate": "2026-10-02T00:00:00.000Z",
+      "daysOnMarket": 50,
+      "lotSize": 21780,
+      "hoaFee": null,
+      "listingAgent": {
+        "name": "Leigh Perkins Davis",
+        "phone": "6627797853",
+        "email": "leigh@erastarkville.com",
+        "website": "leighperkinsdavis.sites.erarealestate.com"
+      },
+      "listingOffice": {
+        "name": "ERA TOWN & CAMPUS REALTY",
+        "phone": "6626156077",
+        "email": "office@erastarkville.com",
+        "website": "http://www.erastarkville.com/"
+      },
+      "mlsName": "GoldenTriangle",
+      "mlsNumber": "26-2254",
+      "history": [
+        {
+          "date": "2024-10-04",
+          "event": "Sale Listing",
+          "price": 34799,
+          "daysOnMarket": 312
+        },
+        {
+          "date": "2026-10-02",
+          "event": "Sale Listing",
+          "price": 349799,
+          "daysOnMarket": 50
+        }
+      ],
+      "inOpportunityZone": true,
+      "opportunityZoneTract": "28105950300",
+      "source": "rentcast",
+      "firstSeen": "2026-11-17",
+      "lastPriceChange": null
+    },
+    {
+      "id": "403-Russell-St,-Lot-306,-Starkville,-MS-39759",
+      "address": "403 Russell St, Lot 306, Starkville, MS 39759",
+      "city": "Starkville",
+      "state": "MS",
+      "zipCode": "39759",
+      "county": "Oktibbeha",
+      "latitude": 33.459064,
+      "longitude": -88.805992,
+      "price": 399900,
+      "status": "Active",
+      "listingType": "New Construction",
+      "propertyType": "Condo",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "squareFootage": 700,
+      "yearBuilt": 2025,
+      "listedDate": "2026-10-05T00:00:00.000Z",
+      "daysOnMarket": 47,
+      "lotSize": null,
+      "hoaFee": null,
+      "listingAgent": {
+        "name": "Kay Regimbal",
+        "phone": "6628160094",
+        "email": "kay@mississippimagnolia.com"
+      },
+      "listingOffice": {
+        "name": "CENTRAL MISSMAGHOIMES DBAMississippi Magnolia, LLC",
+        "phone": "6622687928",
+        "email": "hello@mississippimagnolia.com"
+      },
+      "mlsName": "MLSUnited",
+      "mlsNumber": "4164603",
+      "history": [
+        {
+          "date": "2026-10-05",
+          "event": "Sale Listing",
+          "price": 399900,
+          "daysOnMarket": 47
+        }
+      ],
+      "inOpportunityZone": true,
+      "opportunityZoneTract": "28105950401",
+      "source": "rentcast",
+      "firstSeen": "2026-11-17",
+      "lastPriceChange": null
+    },
+    {
+      "id": "107-Hillside-Dr,-Starkville,-MS-39759",
+      "address": "107 Hillside Dr, Starkville, MS 39759",
+      "city": "Starkville",
+      "state": "MS",
+      "zipCode": "39759",
+      "county": "Oktibbeha",
+      "latitude": 33.467505,
+      "longitude": -88.803806,
+      "price": 295000,
+      "status": "Active",
+      "listingType": "Standard",
+      "propertyType": "Single Family",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "squareFootage": 1450,
+      "yearBuilt": 1955,
+      "listedDate": "2026-10-19T00:00:00.000Z",
+      "daysOnMarket": 33,
+      "lotSize": 10890,
+      "hoaFee": null,
+      "listingAgent": {
+        "name": "Michele Whatley",
+        "phone": "6019412022",
+        "email": "michelewhatleyrealtor@gmail.com"
+      },
+      "listingOffice": {
+        "name": "THE PROPERTY PARTNERS, REALTY PARTNERS LLC DBA",
+        "phone": "6019532239",
+        "email": "michelewhatleyrealtor@gmail.com"
+      },
+      "mlsName": "GoldenTriangle",
+      "mlsNumber": "26-2383",
+      "history": [
+        {
+          "date": "2026-10-19",
+          "event": "Sale Listing",
+          "price": 295000,
+          "daysOnMarket": 33
+        }
+      ],
+      "inOpportunityZone": true,
+      "opportunityZoneTract": "28105950401",
+      "source": "rentcast",
+      "firstSeen": "2026-11-17",
+      "lastPriceChange": null
+    },
+    {
+      "id": "104-Freeman-Ave,-Starkville,-MS-39759",
+      "address": "104 Freeman Ave, Starkville, MS 39759",
+      "city": "Starkville",
+      "state": "MS",
+      "zipCode": "39759",
+      "county": "Oktibbeha",
+      "latitude": 33.471825,
+      "longitude": -88.816862,
+      "price": 229500,
+      "status": "Active",
+      "listingType": "Standard",
+      "propertyType": "Single Family",
+      "bedrooms": 3,
+      "bathrooms": 1,
+      "squareFootage": 1465,
+      "yearBuilt": 1955,
+      "listedDate": "2026-10-26T00:00:00.000Z",
+      "daysOnMarket": 26,
+      "lotSize": null,
+      "hoaFee": null,
+      "listingAgent": {
+        "name": "Kerri Mathews",
+        "phone": "6624352686",
+        "email": "kerri.mathews@erastarkville.com",
+        "website": "https://erastarkville.com/directory/agents/kerri-mathews"
+      },
+      "listingOffice": {
+        "name": "ERA TOWN & CAMPUS REALTY",
+        "phone": "6626156077",
+        "email": "office@erastarkville.com",
+        "website": "http://www.erastarkville.com/"
+      },
+      "mlsName": "GoldenTriangle",
+      "mlsNumber": "26-2432",
+      "history": [
+        {
+          "date": "2026-10-26",
+          "event": "Sale Listing",
+          "price": 229500,
+          "daysOnMarket": 26
+        }
+      ],
+      "inOpportunityZone": true,
+      "opportunityZoneTract": "28105950300",
+      "source": "rentcast",
+      "firstSeen": "2026-11-17",
+      "lastPriceChange": null
+    },
+    {
+      "id": "290-Russell-St,-Apt-115,-Starkville,-MS-39759",
+      "address": "290 Russell St, Apt 115, Starkville, MS 39759",
+      "city": "Starkville",
+      "state": "MS",
+      "zipCode": "39759",
+      "county": "Oktibbeha",
+      "latitude": 33.458854,
+      "longitude": -88.807225,
+      "price": 400000,
+      "status": "Active",
+      "listingType": "Standard",
+      "propertyType": "Condo",
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "squareFootage": 843,
+      "yearBuilt": 2016,
+      "listedDate": "2026-10-12T00:00:00.000Z",
+      "daysOnMarket": 40,
+      "lotSize": null,
+      "hoaFee": null,
+      "listingAgent": {
+        "name": "Madalyn Mcbride",
+        "phone": "6627698777",
+        "email": "madalynmcbride.realtor@gmail.com"
+      },
+      "listingOffice": {
+        "name": "McBride & Co. Real Estate",
+        "phone": "6623411000",
+        "email": "audrey@audreymcbride.com",
+        "website": "http://www.mcbrideandco.com"
+      },
+      "mlsName": "GoldenTriangle",
+      "mlsNumber": "26-2328",
+      "history": [
+        {
+          "date": "2026-10-12",
+          "event": "Sale Listing",
+          "price": 400000,
+          "daysOnMarket": 40
+        }
+      ],
+      "inOpportunityZone": true,
+      "opportunityZoneTract": "28105950401",
+      "source": "rentcast",
+      "firstSeen": "2026-11-17",
+      "lastPriceChange": null
+    },
+    {
+      "id": "403-Russell-St,-Lot-303,-Starkville,-MS-39759",
+      "address": "403 Russell St, Lot 303, Starkville, MS 39759",
+      "city": "Starkville",
+      "state": "MS",
+      "zipCode": "39759",
+      "county": "Oktibbeha",
+      "latitude": 33.459064,
+      "longitude": -88.805992,
+      "price": 399900,
+      "status": "Active",
+      "listingType": "New Construction",
+      "propertyType": "Condo",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "squareFootage": 700,
+      "yearBuilt": 2025,
+      "listedDate": "2026-10-05T00:00:00.000Z",
+      "daysOnMarket": 47,
+      "lotSize": null,
+      "hoaFee": null,
+      "listingAgent": {
+        "name": "Kay Regimbal",
+        "phone": "6628160094",
+        "email": "kay@mississippimagnolia.com"
+      },
+      "listingOffice": {
+        "name": "CENTRAL MISSMAGHOIMES DBAMississippi Magnolia, LLC",
+        "phone": "6622687928",
+        "email": "hello@mississippimagnolia.com"
+      },
+      "mlsName": "MLSUnited",
+      "mlsNumber": "4164597",
+      "history": [
+        {
+          "date": "2026-10-05",
+          "event": "Sale Listing",
+          "price": 399900,
+          "daysOnMarket": 47
+        }
+      ],
+      "inOpportunityZone": true,
+      "opportunityZoneTract": "28105950401",
+      "source": "rentcast",
+      "firstSeen": "2026-11-17",
+      "lastPriceChange": null
+    },
+    {
+      "id": "Oak-St,-Starkville,-MS-39759",
+      "address": "Oak St, Starkville, MS 39759",
+      "city": "Starkville",
+      "state": "MS",
+      "zipCode": "39759",
+      "county": "Oktibbeha",
+      "latitude": 33.473095,
+      "longitude": -88.818803,
+      "price": 185000,
+      "status": "Active",
+      "listingType": "Standard",
+      "propertyType": "Land",
+      "bedrooms": null,
+      "bathrooms": null,
+      "squareFootage": null,
+      "yearBuilt": null,
+      "listedDate": "2026-10-09T00:00:00.000Z",
+      "daysOnMarket": 43,
+      "lotSize": 74488,
+      "hoaFee": null,
+      "listingAgent": {
+        "name": "Teresa Brooks",
+        "phone": "6624180022",
+        "email": "tbrooks15@hotmail.com",
+        "website": "http://www.teresabrooks.net"
+      },
+      "listingOffice": {
+        "name": "STARKVILLE PROPERTIES",
+        "phone": "6623240037",
+        "email": "homes@starkvillepropertiesms.com",
+        "website": "http://www.starkvillepropertiesms.com"
+      },
+      "mlsName": "GoldenTriangle",
+      "mlsNumber": "26-2316",
+      "history": [
+        {
+          "date": "2026-10-09",
+          "event": "Sale Listing",
+          "price": 185000,
+          "daysOnMarket": 43
+        }
+      ],
+      "inOpportunityZone": true,
+      "opportunityZoneTract": "28105950300",
+      "source": "rentcast",
+      "firstSeen": "2026-11-17",
+      "lastPriceChange": null
+    },
+    {
+      "id": "403-Russell-St,-Lot-307,-Starkville,-MS-39759",
+      "address": "403 Russell St, Lot 307, Starkville, MS 39759",
+      "city": "Starkville",
+      "state": "MS",
+      "zipCode": "39759",
+      "county": "Oktibbeha",
+      "latitude": 33.459064,
+      "longitude": -88.805992,
+      "price": 399900,
+      "status": "Active",
+      "listingType": "New Construction",
+      "propertyType": "Condo",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "squareFootage": 700,
+      "yearBuilt": 2025,
+      "listedDate": "2026-10-02T00:00:00.000Z",
+      "daysOnMarket": 50,
+      "lotSize": null,
+      "hoaFee": null,
+      "listingAgent": {
+        "name": "Kay Regimbal",
+        "phone": "6628160094",
+        "email": "kay@mississippimagnolia.com"
+      },
+      "listingOffice": {
+        "name": "CENTRAL MISSMAGHOIMES DBAMississippi Magnolia, LLC",
+        "phone": "6622687928",
+        "email": "hello@mississippimagnolia.com"
+      },
+      "mlsName": "MLSUnited",
+      "mlsNumber": "4164343",
+      "history": [
+        {
+          "date": "2026-10-02",
+          "event": "Sale Listing",
+          "price": 399900,
+          "daysOnMarket": 50
+        }
+      ],
+      "inOpportunityZone": true,
+      "opportunityZoneTract": "28105950401",
+      "source": "rentcast",
+      "firstSeen": "2026-11-17",
+      "lastPriceChange": null
+    },
+    {
+      "id": "Carver-Dr,-Starkville,-MS-39759",
+      "address": "Carver Dr, Starkville, MS 39759",
+      "city": "Starkville",
+      "state": "MS",
+      "zipCode": "39759",
+      "county": "Oktibbeha",
+      "latitude": 33.473585,
+      "longitude": -88.823513,
+      "price": 100000,
+      "status": "Active",
+      "listingType": "Standard",
+      "propertyType": "Land",
+      "bedrooms": null,
+      "bathrooms": null,
+      "squareFootage": null,
+      "yearBuilt": null,
+      "listedDate": "2026-10-09T00:00:00.000Z",
+      "daysOnMarket": 43,
+      "lotSize": 10890,
+      "hoaFee": null,
+      "listingAgent": {
+        "name": "Teresa Brooks",
+        "phone": "6624180022",
+        "email": "tbrooks15@hotmail.com",
+        "website": "http://www.teresabrooks.net"
+      },
+      "listingOffice": {
+        "name": "STARKVILLE PROPERTIES",
+        "phone": "6623240037",
+        "email": "homes@starkvillepropertiesms.com",
+        "website": "http://www.starkvillepropertiesms.com"
+      },
+      "mlsName": "GoldenTriangle",
+      "mlsNumber": "26-2315",
+      "history": [
+        {
+          "date": "2023-11-20",
+          "event": "Sale Listing",
+          "price": 369000,
+          "daysOnMarket": 362
+        },
+        {
+          "date": "2026-10-09",
+          "event": "Sale Listing",
+          "price": 100000,
+          "daysOnMarket": 43
+        }
+      ],
+      "inOpportunityZone": true,
+      "opportunityZoneTract": "28105950300",
+      "source": "rentcast",
+      "firstSeen": "2026-11-17",
+      "lastPriceChange": null
+    },
+    {
+      "id": "112-W-Gillespie-St,-Unit-A,-Starkville,-MS-39759",
+      "address": "112 W Gillespie St, Unit A, Starkville, MS 39759",
+      "city": "Starkville",
+      "state": "MS",
+      "zipCode": "39759",
+      "county": "Oktibbeha",
+      "latitude": 33.45847,
+      "longitude": -88.817832,
+      "price": 329500,
+      "status": "Active",
+      "listingType": "Standard",
+      "propertyType": "Condo",
+      "bedrooms": 2,
+      "bathrooms": 1.5,
+      "squareFootage": 1076,
+      "yearBuilt": 2000,
+      "listedDate": "2026-10-26T00:00:00.000Z",
+      "daysOnMarket": 26,
+      "lotSize": null,
+      "hoaFee": null,
+      "listingAgent": {
+        "name": "Tanner Dolan"
+      },
+      "listingOffice": {
+        "name": "SWOOPE REAL ESTATE",
+        "phone": "6623270123",
+        "email": "tdolan@swooperepm.com"
+      },
+      "mlsName": "GoldenTriangle",
+      "mlsNumber": "26-2437",
+      "history": [
+        {
+          "date": "2026-10-26",
+          "event": "Sale Listing",
+          "price": 329500,
+          "daysOnMarket": 26
+        }
+      ],
+      "inOpportunityZone": true,
+      "opportunityZoneTract": "28105950500",
+      "source": "rentcast",
+      "firstSeen": "2026-11-17",
+      "lastPriceChange": null
+    },
+    {
+      "id": "112-W-Gillespie-St,-Unit-C,-Starkville,-MS-39759",
+      "address": "112 W Gillespie St, Unit C, Starkville, MS 39759",
+      "city": "Starkville",
+      "state": "MS",
+      "zipCode": "39759",
+      "county": "Oktibbeha",
+      "latitude": 33.45847,
+      "longitude": -88.817832,
+      "price": 349500,
+      "status": "Active",
+      "listingType": "Standard",
+      "propertyType": "Condo",
+      "bedrooms": 2,
+      "bathrooms": 2.5,
+      "squareFootage": 1192,
+      "yearBuilt": 2000,
+      "listedDate": "2026-10-27T00:00:00.000Z",
+      "daysOnMarket": 25,
+      "lotSize": null,
+      "hoaFee": null,
+      "listingAgent": {
+        "name": "Tanner Dolan"
+      },
+      "listingOffice": {
+        "name": "SWOOPE REAL ESTATE",
+        "phone": "6623270123",
+        "email": "tdolan@swooperepm.com"
+      },
+      "mlsName": "GoldenTriangle",
+      "mlsNumber": "26-2446",
+      "history": [
+        {
+          "date": "2026-10-27",
+          "event": "Sale Listing",
+          "price": 349500,
+          "daysOnMarket": 25
+        }
+      ],
+      "inOpportunityZone": true,
+      "opportunityZoneTract": "28105950500",
+      "source": "rentcast",
+      "firstSeen": "2026-11-17",
+      "lastPriceChange": null
+    },
+    {
+      "id": "101-Caldwell-St,-Apt-2,-Starkville,-MS-39759",
+      "address": "101 Caldwell St, Apt 2, Starkville, MS 39759",
+      "city": "Starkville",
+      "state": "MS",
+      "zipCode": "39759",
+      "county": "Oktibbeha",
+      "latitude": 33.46442,
+      "longitude": -88.812386,
+      "price": 355000,
+      "status": "Active",
+      "listingType": "Standard",
+      "propertyType": "Condo",
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "squareFootage": 806,
+      "yearBuilt": 1970,
+      "listedDate": "2026-11-09T00:00:00.000Z",
+      "daysOnMarket": 12,
+      "lotSize": 436,
+      "hoaFee": 208,
+      "listingAgent": {
+        "name": "Julie Bishop",
+        "phone": "6016249292",
+        "email": "julie.bishop@crye-leike.com",
+        "website": "juliebishop.crye-leike.com"
+      },
+      "listingOffice": {
+        "name": "Crye-Leike",
+        "phone": "6019395160",
+        "email": "lynette@crye-leike.com"
+      },
+      "mlsName": "MLSUnited",
+      "mlsNumber": "4167843",
+      "history": [
+        {
+          "date": "2026-04-22",
+          "event": "Sale Listing",
+          "price": 367500,
+          "daysOnMarket": 186
+        },
+        {
+          "date": "2026-11-09",
+          "event": "Sale Listing",
+          "price": 355000,
+          "daysOnMarket": 12
+        }
+      ],
+      "inOpportunityZone": true,
+      "opportunityZoneTract": "28105950500",
+      "source": "rentcast",
+      "firstSeen": "2026-11-17",
+      "lastPriceChange": null
+    },
+    {
+      "id": "290-Russell-St,-Apt-325,-Starkville,-MS-39759",
+      "address": "290 Russell St, Apt 325, Starkville, MS 39759",
+      "city": "Starkville",
+      "state": "MS",
+      "zipCode": "39759",
+      "county": "Oktibbeha",
+      "latitude": 33.458687,
+      "longitude": -88.806412,
+      "price": 380000,
+      "status": "Active",
+      "listingType": "Standard",
+      "propertyType": "Condo",
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "squareFootage": 843,
+      "yearBuilt": 2016,
+      "listedDate": "2026-11-03T00:00:00.000Z",
+      "daysOnMarket": 16,
+      "lotSize": null,
+      "hoaFee": null,
+      "listingAgent": {
+        "name": "Heather Brett",
+        "phone": "6626156077",
+        "email": "hhbrett@yahoo.com",
+        "website": "https://new.myzap.com/agent/contacts_search.jsp"
+      },
+      "listingOffice": {
+        "name": "ERA TOWN & CAMPUS REALTY",
+        "phone": "6626156077",
+        "email": "office@erastarkville.com",
+        "website": "http://www.erastarkville.com/"
+      },
+      "mlsName": "GoldenTriangle",
+      "mlsNumber": "26-2502",
+      "history": [
+        {
+          "date": "2026-11-03",
+          "event": "Sale Listing",
+          "price": 380000,
+          "daysOnMarket": 16
+        }
+      ],
+      "inOpportunityZone": true,
+      "opportunityZoneTract": "28105950401",
+      "source": "rentcast",
+      "firstSeen": "2026-11-17",
+      "lastPriceChange": null
+    },
+    {
+      "id": "126-King-St,-Columbus,-MS-39702",
+      "address": "126 King St, Columbus, MS 39702",
+      "city": "Columbus",
+      "state": "MS",
+      "zipCode": "39702",
+      "county": "Lowndes",
+      "latitude": 33.494836,
+      "longitude": -88.386616,
+      "price": 129800,
+      "status": "Active",
+      "listingType": "Standard",
+      "propertyType": "Single Family",
+      "bedrooms": 3,
+      "bathrooms": 1,
+      "squareFootage": 960,
+      "yearBuilt": 1968,
+      "listedDate": "2026-09-24T00:00:00.000Z",
+      "daysOnMarket": 56,
+      "lotSize": 10890,
+      "hoaFee": null,
+      "listingAgent": {
+        "name": "Jerome Stephenson",
+        "phone": "6623612084",
+        "email": "jerome.stephenson@myclpu.com",
+        "website": "http://jeromestephenson.com"
+      },
+      "listingOffice": {
+        "name": "CRYE-LEIKE PROPERTIES UNLIMITED",
+        "phone": "6623281150",
+        "email": "gingercorbell65@gmail.com",
+        "website": "http://www.crye-leike.com/franchises/about.php"
+      },
+      "mlsName": "GoldenTriangle",
+      "mlsNumber": "26-2193",
+      "history": [
+        {
+          "date": "2026-09-24",
+          "event": "Sale Listing",
+          "price": 129800,
+          "daysOnMarket": 56
+        }
+      ],
+      "inOpportunityZone": true,
+      "opportunityZoneTract": "28087000600",
+      "source": "rentcast",
+      "firstSeen": "2026-11-17",
+      "lastPriceChange": null
+    }
+  ]
+}

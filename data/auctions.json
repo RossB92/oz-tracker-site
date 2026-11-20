@@ -1,0 +1,74 @@
+{
+  "note": "There is no free, reliable API for county tax sales or auction platforms (Auction.com, Hubzu, etc.). This file has two parts: 'resources' are verified links to check yourself, and 'listings' is where you manually add specific properties you find so they show up on the map/list alongside the RentCast for-sale data. Edit this file directly to add listings.",
+  "resources": [
+    {
+      "name": "Oktibbeha County Tax Office (Starkville)",
+      "description": "Annual delinquent tax sale info and land tax records for Oktibbeha County.",
+      "url": "https://www.oktibbeha.ms.gov/199/Tax-Office",
+      "county": "Oktibbeha"
+    },
+    {
+      "name": "Oktibbeha County Chancery Clerk Land Records",
+      "description": "Online land/chancery records search for Oktibbeha County.",
+      "url": "https://chancery.oktibbehacountyms.org/",
+      "county": "Oktibbeha"
+    },
+    {
+      "name": "Lowndes County Chancery Clerk (Columbus)",
+      "description": "Chancery Clerk office, which handles delinquent tax collection for Lowndes County.",
+      "url": "https://www.lowndescountyms.com/176/Chancery-Clerk",
+      "county": "Lowndes"
+    },
+    {
+      "name": "Lowndes County Chancery Records Online",
+      "description": "Online land/chancery records search for Lowndes County.",
+      "url": "https://chancery.lowndescountyms.com/",
+      "county": "Lowndes"
+    },
+    {
+      "name": "Clay County Tax Assessor/Collector (West Point)",
+      "description": "Real estate tax info and annual tax sale details (last Monday of August) for Clay County.",
+      "url": "https://www.claycountyms.com/tax-assessor-collector/real-estate-taxes/",
+      "county": "Clay"
+    },
+    {
+      "name": "Clay County Chancery Clerk",
+      "description": "Chancery Clerk office information for Clay County.",
+      "url": "https://www.claycountyms.com/chancery-clerk/office-information/",
+      "county": "Clay"
+    },
+    {
+      "name": "Mississippi Land Redemption Inquiry (Delta Computer Systems)",
+      "description": "Search tax-sale/land-redemption records across many MS counties, including Oktibbeha, Lowndes and Clay.",
+      "url": "https://dsm.ms/land-redemption-inquiry",
+      "county": "Multiple"
+    },
+    {
+      "name": "Auction.com",
+      "description": "National online real estate auction platform. No public API -- search manually by city (Starkville, West Point, Columbus, MS).",
+      "url": "https://www.auction.com/residential/mississippi/",
+      "county": "Multiple"
+    },
+    {
+      "name": "Hubzu",
+      "description": "Online real estate auction platform. No public API -- search manually by city.",
+      "url": "https://www.hubzu.com/",
+      "county": "Multiple"
+    }
+  ],
+  "listings": [
+    {
+      "_comment": "Copy this block to add a real auction/tax-sale property you found. Delete this comment entry.",
+      "address": "123 Example St, Starkville, MS 39759",
+      "city": "Starkville",
+      "latitude": null,
+      "longitude": null,
+      "auctionType": "County tax sale",
+      "auctionDate": "2026-08-31",
+      "openingBid": null,
+      "url": "",
+      "notes": "",
+      "inOpportunityZone": null
+    }
+  ]
+}

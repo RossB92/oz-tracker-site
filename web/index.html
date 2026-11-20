@@ -1,0 +1,111 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="robots" content="noindex, nofollow" />
+<link rel="icon" type="image/png" href="favicon.png" />
+<link rel="apple-touch-icon" href="apple-touch-icon.png" />
+<meta name="apple-mobile-web-app-title" content="OZ Tracker" />
+<title>Golden Triangle Opportunity Zone Investing</title>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+<link rel="stylesheet" href="style.css" />
+</head>
+<body>
+<header class="topbar">
+  <h1>Golden Triangle Opportunity Zone Properties</h1>
+  <p class="subtitle">Starkville &middot; West Point &middot; Columbus, Mississippi</p>
+</header>
+
+<div class="layout">
+  <aside class="sidebar">
+    <div class="panel">
+      <div class="tabs">
+        <button class="tab active" data-tab="forsale">For Sale</button>
+        <button class="tab" data-tab="auctions">Auctions / Tax Sale</button>
+      </div>
+
+      <div class="filters" id="forsale-filters">
+        <label>City
+          <select id="filter-city">
+            <option value="">All</option>
+            <option value="Starkville">Starkville</option>
+            <option value="West Point">West Point</option>
+            <option value="Columbus">Columbus</option>
+          </select>
+        </label>
+        <label class="checkbox">
+          <input type="checkbox" id="filter-oz-only" checked />
+          Opportunity Zone only
+        </label>
+        <label>Property type
+          <select id="filter-type">
+            <option value="all">All</option>
+            <option value="houses">Houses</option>
+            <option value="condos">Condos</option>
+            <option value="land">Land</option>
+          </select>
+        </label>
+        <label>Sort by
+          <select id="filter-sort">
+            <option value="priceLow">Price: low to high</option>
+            <option value="priceHigh">Price: high to low</option>
+            <option value="ppsf">Price per sq ft</option>
+            <option value="dom">Days on market (longest)</option>
+            <option value="newest">Newest first</option>
+          </select>
+        </label>
+        <label class="checkbox">
+          <input type="checkbox" id="filter-flagged" />
+          Only new, price cuts, or 90+ days
+        </label>
+        <div class="price-row">
+          <label>Min price
+            <input type="number" id="filter-min-price" placeholder="0" step="10000" min="0" />
+          </label>
+          <label>Max price
+            <input type="number" id="filter-max-price" placeholder="400000" step="10000" min="0" />
+          </label>
+        </div>
+        <p class="hint">Listings are pre-filtered at fetch time to $400,000 or less and inside a designated Opportunity Zone -- these controls just narrow that set further.</p>
+        <div class="meta" id="listings-meta">Loading listings&hellip;</div>
+      </div>
+
+      <div id="listings-list" class="scroll-list"></div>
+      <div id="auctions-list" class="scroll-list hidden"></div>
+    </div>
+  </aside>
+
+  <main class="map-wrap">
+    <div id="map"></div>
+
+    <div class="layer-control" id="layer-control">
+      <label class="checkbox">
+        <input type="checkbox" id="toggle-current-oz" checked />
+        <span class="swatch swatch-current"></span> 2027 Opportunity Zones
+      </label>
+      <label class="checkbox">
+        <input type="checkbox" id="toggle-proposed-oz" />
+        <span class="swatch swatch-proposed"></span> 2018 zones (old map)
+      </label>
+      <p class="hint">
+        2027 zones = Mississippi's tracts approved by Treasury on Nov 5, 2026, effective
+        Jan 1, 2027 for 10 years. Listings are filtered to these.
+      </p>
+    </div>
+
+    <div class="banner" id="clay-banner">
+      Clay County (West Point) has <strong>no</strong> tracts in the 2027 Opportunity Zone map,
+      so West Point listings won't appear.
+    </div>
+  </main>
+</div>
+
+<div class="detail-overlay hidden" id="detail-overlay">
+  <div class="detail-card" id="detail-card"></div>
+</div>
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
